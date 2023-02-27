@@ -6498,7 +6498,7 @@ collections:
             label: Link
             name: 55b8e8be
             widget: string
-          - hint: 'Original link: /menu, key: 2c9660e'
+          - hint: 'Original link: #meniu, key: 2c9660e'
             label: Link
             name: 2c9660e
             widget: string

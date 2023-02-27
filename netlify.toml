@@ -8,3 +8,9 @@ functions = "functions"
   to = "/.netlify/functions/:splat"
   status = 200
   force = true
+
+  from = "/*"
+  to = "/"
+  status = 302
+  force = true # COMMENT: ensure that we always redirect
+

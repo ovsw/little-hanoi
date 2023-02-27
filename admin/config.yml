@@ -938,10 +938,6 @@ collections:
             label: Text
             name: 667a5d97
             widget: string
-          - hint: 'Original text: 0, key: 30'
-            label: Text
-            name: '30'
-            widget: string
           - hint: 'Original text: Cart, key: 1fef40'
             label: Text
             name: 1fef40
@@ -957,10 +953,6 @@ collections:
           - hint: 'Original text: Subtotal:, key: -677f446a'
             label: Text
             name: '-677f446a'
-            widget: string
-          - hint: 'Original text: Pay with browser., key: -42873978'
-            label: Text
-            name: '-42873978'
             widget: string
           - hint: 'Original text: Continue to Checkout, key: -7941186e'
             label: Text
@@ -980,214 +972,18 @@ collections:
             label: Text
             name: '5e182306'
             widget: string
-          - hint: 'Original text: Sushi X Webflow Template, key: -436d6cb2'
-            label: Text
-            name: '-436d6cb2'
-            widget: string
           - hint: >-
-              Original text: Presenting Sushi X, the ultimate Sushi Restaurant
-              Webflow Template., key: -50c344c4
+              Original text: This page is password protected. If you are the
+              website admin, or have access to this page, please type your
+              password below., key: -4e553b9b
             label: Text
-            name: '-50c344c4'
-            widget: string
-          - hint: 'Original text: Buy template, key: -472e870c'
-            label: Text
-            name: '-472e870c'
-            widget: string
-          - hint: 'Original text: Explore pages, key: -40a54c29'
-            label: Text
-            name: '-40a54c29'
-            widget: string
-          - hint: 'Original text: What is included in Sushi X, key: -6548fea7'
-            label: Text
-            name: '-6548fea7'
-            widget: string
-          - hint: >-
-              Original text: Sushi X Webflow Template includes over 10 pages in
-              total, with more than 22 sections., key: 1282325d
-            label: Text
-            name: 1282325d
-            widget: string
-          - hint: 'Original text: 10+ Pages, key: -6d24f90'
-            label: Text
-            name: '-6d24f90'
-            widget: string
-          - hint: 'Original text: 22+ Sections, key: 629bd8e3'
-            label: Text
-            name: 629bd8e3
-            widget: string
-          - hint: 'Original text: 20+ Styles & Symbols, key: -6f4657ca'
-            label: Text
-            name: '-6f4657ca'
-            widget: string
-          - hint: 'Original text: Figma file included, key: -6ccdaec8'
-            label: Text
-            name: '-6ccdaec8'
-            widget: string
-          - hint: 'Original text: Send us an email to , key: -52b157e8'
-            label: Text
-            name: '-52b157e8'
-            widget: string
-          - hint: 'Original text: sushix@brixtemplates.com, key: 3c7bdc13'
-            label: Text
-            name: 3c7bdc13
-            widget: string
-          - hint: >-
-              Original text:  with your purchase receipt, and we will send you
-              the editable Figma file for the Sushi X template., key: -47bc0fcb
-            label: Text
-            name: '-47bc0fcb'
-            widget: text
-          - hint: 'Original text: Request Figma file, key: 5c1afa75'
-            label: Text
-            name: 5c1afa75
-            widget: string
-          - hint: 'Original text: Main pages, key: 3b40f6bd'
-            label: Text
-            name: 3b40f6bd
-            widget: string
-          - hint: >-
-              Original text: Take a look at the main pages included in the ,
-              key: -7dc8ff4a
-            label: Text
-            name: '-7dc8ff4a'
-            widget: string
-          - hint: 'Original text: Sushi X Template, key: -753c2ab0'
-            label: Text
-            name: '-753c2ab0'
-            widget: string
-          - hint: 'Original text: ., key: 2e'
-            label: Text
-            name: 2e
-            widget: string
-          - hint: 'Original text: CMS, key: 10529'
-            label: Text
-            name: '10529'
-            widget: string
-          - hint: 'Original text: Blog post, key: -51ce11c2'
-            label: Text
-            name: '-51ce11c2'
-            widget: string
-          - hint: 'Original text: Menu single, key: -3feb79f7'
-            label: Text
-            name: '-3feb79f7'
-            widget: string
-          - hint: 'Original text: Utility pages, key: -1157fc10'
-            label: Text
-            name: '-1157fc10'
-            widget: string
-          - hint: >-
-              Original text: Take a look at the utility pages included in the ,
-              key: -146b1597
-            label: Text
-            name: '-146b1597'
-            widget: string
-          - hint: 'Original text: 404 Not found, key: 17ca92ed'
-            label: Text
-            name: 17ca92ed
-            widget: string
-          - hint: >-
-              Original text: The Sushi X Webflow Template also comes with more
-              surprises..., key: -74ca8284
-            label: Text
-            name: '-74ca8284'
-            widget: string
-          - hint: 'Original text: 3 Headers and Footers, key: 30b263a8'
-            label: Text
-            name: 30b263a8
-            widget: string
-          - hint: >-
-              Original text: With a total of 3 different headers and footers,
-              you can easily customize the Sushi X Webflow Template to fit your
-              company needs and requirements., key: -67ba97e1
-            label: Text
-            name: '-67ba97e1'
-            widget: text
-          - hint: 'Original text: 3 Notification Bars, key: 14b1ba28'
-            label: Text
-            name: 14b1ba28
-            widget: string
-          - hint: >-
-              Original text: If you are looking to get more sales, use one of
-              our 3 notification bars included in the Sushi X Webflow Template,
-              and start promoting your products or services., key: -35d4be41
-            label: Text
-            name: '-35d4be41'
-            widget: text
-          - hint: 'Original text: Custom Icon Set, key: 52e7e7ea'
-            label: Text
-            name: 52e7e7ea
-            widget: string
-          - hint: >-
-              Original text: The Sushi X Webflow Template includes 3 sets of
-              custom icons (rounded, square and filled), so you can easily use
-              more icon fonts in your template., key: 5c5a2ea1
-            label: Text
-            name: 5c5a2ea1
+            name: '-4e553b9b'
             widget: text
           - hint: >-
-              Original text: No matter if you are looking to add another social
-              media icon in the footer, or change the cart icon in the header,
-              we got you covered., key: -6fd13d6
+              Original text: Incorrect password. Please try again., key:
+              -f5c4b5f
             label: Text
-            name: '-6fd13d6'
-            widget: text
-          - hint: 'Original text: View icon font, key: 267483fb'
-            label: Text
-            name: 267483fb
-            widget: string
-          - hint: 'Original text: Social Media Assets, key: -7fed82ce'
-            label: Text
-            name: '-7fed82ce'
-            widget: string
-          - hint: >-
-              Original text: Our Sushi X Webflow Template Figma file includes a
-              collection of social media covers that match with the Webflow
-              Template design (for Facebook, Twitter and LinkedIn), so you can
-              easily edit, customize, and use them for your own social media
-              profiles., key: 688a75df
-            label: Text
-            name: 688a75df
-            widget: text
-          - hint: 'Original text: Email Signature, key: -3d1f30c'
-            label: Text
-            name: '-3d1f30c'
-            widget: string
-          - hint: >-
-              Original text: Our Sushi X Webflow Template Figma file includes 2
-              custom email signature templates that match with the Webflow
-              template, and you can use them to impress your customers with an
-              amazing email signature., key: 2118b65b
-            label: Text
-            name: 2118b65b
-            widget: text
-          - hint: 'Original text: Buy now on Webflow, key: 567689a5'
-            label: Text
-            name: 567689a5
-            widget: string
-          - hint: >-
-              Original text: Get the Sushi X Webflow Template today, and take
-              your website design to the next level., key: -47cdb4d9
-            label: Text
-            name: '-47cdb4d9'
-            widget: string
-          - hint: 'Original text: Buy Template, key: -435422ec'
-            label: Text
-            name: '-435422ec'
-            widget: string
-          - hint: 'Original text: Browse all templates, key: 7a006084'
-            label: Text
-            name: 7a006084
-            widget: string
-          - hint: >-
-              Original text: Looking for more templates? Browse our collection
-              of 100+ Webflow Templates on BRIXTemplates.com, key: 31835789
-            label: Text
-            name: '31835789'
-            widget: text
-          - hint: 'Original text: Explore more templates, key: 662edd7b'
-            label: Text
-            name: 662edd7b
+            name: '-f5c4b5f'
             widget: string
           - hint: 'Original text: Reservation, key: 63eebac'
             label: Text
@@ -1254,17 +1050,9 @@ collections:
             label: Text
             name: e810
             widget: string
-          - hint: 'Original text: , key: e829'
-            label: Text
-            name: e829
-            widget: string
           - hint: 'Original text: , key: e807'
             label: Text
             name: e807
-            widget: string
-          - hint: 'Original text: , key: e819'
-            label: Text
-            name: e819
             widget: string
           - hint: 'Original text: Pagini, key: -71f4fc52'
             label: Text
@@ -1278,13 +1066,13 @@ collections:
             label: Text
             name: 214f9f
             widget: string
-          - hint: 'Original text: Termeni și Servicii, key: -5081cbac'
+          - hint: 'Original text: Termeni și Condiții, key: 3a9f2118'
             label: Text
-            name: '-5081cbac'
+            name: 3a9f2118
             widget: string
-          - hint: 'Original text: Politică de Cookies, key: -71d34ac1'
+          - hint: 'Original text: Politică de Cookie-uri, key: 499c1d3'
             label: Text
-            name: '-71d34ac1'
+            name: 499c1d3
             widget: string
           - hint: 'Original text: Visit us!, key: -189adf32'
             label: Text
@@ -1355,52 +1143,34 @@ collections:
             name: '-19afdedc'
             widget: string
           - hint: >-
-              Original text: Copyright @ 2023 Little Hanoi | Website by Studio
-              Rovst, key: -399a5623
+              Original text: Copyright @ 2023 Little Hanoi • Website de , key:
+              -57c13e17
             label: Text
-            name: '-399a5623'
+            name: '-57c13e17'
             widget: string
-          - hint: >-
-              Original text: This page is password protected. If you are the
-              website admin, or have access to this page, please type your
-              password below., key: -4e553b9b
+          - hint: 'Original text: Studio Rovst, key: 4d079f30'
             label: Text
-            name: '-4e553b9b'
-            widget: text
-          - hint: >-
-              Original text: Incorrect password. Please try again., key:
-              -f5c4b5f
-            label: Text
-            name: '-f5c4b5f'
+            name: 4d079f30
             widget: string
-          - hint: 'Original text: 配達, key: 1228a7'
+          - hint: 'Original text: Eroare, key: 7c38c9d2'
             label: Text
-            name: 1228a7
+            name: 7c38c9d2
             widget: string
           - hint: 'Original text: 404, key: c938'
             label: Text
             name: c938
             widget: string
-          - hint: 'Original text: Page not found, key: 49a057c4'
+          - hint: 'Original text: Uff... N-am găsit Pagina 😥, key: 383bf2b6'
             label: Text
-            name: 49a057c4
+            name: 383bf2b6
             widget: string
           - hint: >-
-              Original text: Lorem ipsum dolor sit amet consectetur adipiscing
-              elit tempus id phasellus massa faucibus lectus in sapien ornare et
-              leo egestas blandit amet nunc pharetra vitae id mattis ac sed.,
-              key: 3c3924ce
+              Original text: Pagina pe care o cauți nu există, pentru că nu
+              poate sau nu ar trebui să existe. Ce ai zice să comanzi niște
+              mâncare delicioasă de la noi, ca și consolare?, key: -2db96697
             label: Text
-            name: 3c3924ce
+            name: '-2db96697'
             widget: text
-          - hint: 'Original text: Go to homepage, key: -2b5fdb25'
-            label: Text
-            name: '-2b5fdb25'
-            widget: string
-          - hint: 'Original text: Order online, key: 3c11b785'
-            label: Text
-            name: 3c11b785
-            widget: string
           - hint: 'Original text: 私たちの歴史, key: -7be19457'
             label: Text
             name: '-7be19457'
@@ -1691,6 +1461,10 @@ collections:
             label: Text
             name: 375c3028
             widget: string
+          - hint: 'Original text: Buy template, key: -472e870c'
+            label: Text
+            name: '-472e870c'
+            widget: string
           - hint: 'Original text: Jan 11, 2023, key: 7338929c'
             label: Text
             name: 7338929c
@@ -1750,6 +1524,14 @@ collections:
               auctor urna nunc id cursus metus., key: 4cc51fa0
             label: Text
             name: 4cc51fa0
+            widget: string
+          - hint: 'Original text: , key: e829'
+            label: Text
+            name: e829
+            widget: string
+          - hint: 'Original text: , key: e819'
+            label: Text
+            name: e819
             widget: string
           - hint: 'Original text: オンライン注文, key: -649bc0d2'
             label: Text
@@ -2185,10 +1967,6 @@ collections:
             label: Text
             name: '-7eaf26a3'
             widget: string
-          - hint: 'Original text: Rezervare, key: 62518b92'
-            label: Text
-            name: 62518b92
-            widget: string
           - hint: 'Original text: Comandă online, key: -6b4cc91a'
             label: Text
             name: '-6b4cc91a'
@@ -2345,9 +2123,9 @@ collections:
             label: Text
             name: d868920
             widget: text
-          - hint: 'Original text: Vezi tot meniul, key: 24a0bef3'
+          - hint: 'Original text: Ce Spun Clienții, key: 3152a61e'
             label: Text
-            name: 24a0bef3
+            name: 3152a61e
             widget: string
           - hint: 'Original text: Povestea Noastră, key: 23d693d'
             label: Text
@@ -2571,6 +2349,10 @@ collections:
             label: Text
             name: 3f3b8b86
             widget: string
+          - hint: 'Original text: ., key: 2e'
+            label: Text
+            name: 2e
+            widget: string
           - hint: 'Original text: Image 1, key: -2ad1a574'
             label: Text
             name: '-2ad1a574'
@@ -2721,6 +2503,10 @@ collections:
           - hint: 'Original text: Search results, key: 7e85e19e'
             label: Text
             name: 7e85e19e
+            widget: string
+          - hint: 'Original text: No matching results., key: -75764c4'
+            label: Text
+            name: '-75764c4'
             widget: string
           - hint: 'Original text: Start here, key: 1590450e'
             label: Text
@@ -3104,6 +2890,10 @@ collections:
             label: Text
             name: '-17e0c6d2'
             widget: text
+          - hint: 'Original text: sushix@brixtemplates.com, key: 3c7bdc13'
+            label: Text
+            name: 3c7bdc13
+            widget: string
           - hint: 'Original text:  — We will be happy to help you., key: 56c689be'
             label: Text
             name: 56c689be
@@ -4278,6 +4068,2416 @@ collections:
             label: Text
             name: 2dd67315
             widget: string
+          - hint: "Original text: Termeni și\_Condiții, key: 5cd6a198"
+            label: Text
+            name: 5cd6a198
+            widget: string
+          - hint: 'Original text: Actualizat la 27-02-2023, key: -5aa7ade1'
+            label: Text
+            name: '-5aa7ade1'
+            widget: string
+          - hint: 'Original text: Termeni generali, key: -3c1451b3'
+            label: Text
+            name: '-3c1451b3'
+            widget: string
+          - hint: >-
+              Original text: Prin accesarea și plasarea unei comenzi la Little
+              Hanoi, confirmați că sunteți de acord cu termenii și condițiile de
+              furnizare a serviciului conținute în Termenii și condițiile
+              prezentate mai jos. Acești termeni se aplică întregului site web
+              și oricărui e-mail sau alt tip de comunicare între tine și Little
+              Hanoi., key: -174aab07
+            label: Text
+            name: '-174aab07'
+            widget: text
+          - hint: >-
+              Original text: În nicio circumstanță echipa Little Hanoi nu va fi
+              răspunzătoare pentru orice daune directe, indirecte, speciale,
+              incidentale sau consecvente, inclusiv, dar fără a se limita la,
+              pierderea de date sau profit, care decurg din utilizarea sau
+              incapacitatea de a utiliza materialele de pe acest site, chiar
+              dacă echipa Little Hanoi sau un reprezentant autorizat a fost
+              informat cu privire la posibilitatea unor astfel de daune. Dacă
+              utilizarea de către dumneavoastră a materialelor de pe acest site
+              are ca rezultat necesitatea de service, reparare sau corectare a
+              echipamentelor sau a datelor, vă asumați orice costuri aferente
+              acestora., key: 15899098
+            label: Text
+            name: '15899098'
+            widget: text
+          - hint: >-
+              Original text: Little Hanoi nu va fi responsabil pentru niciun
+              rezultat care poate apărea în timpul utilizării resurselor
+              noastre. Ne rezervăm dreptul de a modifica prețurile și de a
+              revizui politica de utilizare a resurselor în orice moment. Acești
+              Termeni și Condiții au fost create cu , key: 783d83db
+            label: Text
+            name: 783d83db
+            widget: text
+          - hint: 'Original text: Termify, key: e5e82f0'
+            label: Text
+            name: e5e82f0
+            widget: string
+          - hint: 'Original text:  ., key: 40e'
+            label: Text
+            name: 40e
+            widget: string
+          - hint: 'Original text: ‍, key: 200d'
+            label: Text
+            name: 200d
+            widget: string
+          - hint: 'Original text: Licență, key: 6d295017'
+            label: Text
+            name: 6d295017
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi vă acordă o licență revocabilă,
+              neexclusivă, netransferabilă, limitată pentru a descărca, instala
+              și utiliza site-ul web strict în conformitate cu termenii acestui
+              Acord., key: -6c18729d
+            label: Text
+            name: '-6c18729d'
+            widget: text
+          - hint: >-
+              Original text: Acești Termeni și Condiții sunt un contract între
+              dumneavoastră și Little Hanoi (denumit în acești Termeni și
+              Condiții „Little Hanoi”, „noi”, „noi” sau „nostru”), furnizorul
+              site-ului web Little Hanoi și serviciile accesibile de pe site-ul
+              web Little Hanoi (care sunt denumite în mod colectiv în acești
+              Termeni și condiții „Serviciul Little Hanoi”)., key: 5913db3b
+            label: Text
+            name: 5913db3b
+            widget: text
+          - hint: >-
+              Original text: Sunteți de acord să respectați acești Termeni și
+              Condiții. Dacă nu sunteți de acord cu acești Termeni și Condiții,
+              vă rugăm să nu utilizați Serviciul Little Hanoi. În acești Termeni
+              și Condiții, „dvs.” se referă atât la dumneavoastră ca persoană
+              fizică, cât și la entitatea pe care o reprezentați. Dacă încălcați
+              oricare dintre acești Termeni și condiții, ne rezervăm dreptul de
+              a vă anula contul sau de a bloca accesul la contul dvs. fără
+              notificare., key: -4c43e58b
+            label: Text
+            name: '-4c43e58b'
+            widget: text
+          - hint: 'Original text: Definiții și termeni cheie, key: -aa96dbc'
+            label: Text
+            name: '-aa96dbc'
+            widget: string
+          - hint: >-
+              Original text: Pentru a explica lucrurile cât mai clar posibil în
+              acești Termeni și condiții, de fiecare dată când se face referire
+              la oricare dintre acești termeni, sunt definiți strict astfel:,
+              key: -3390cfed
+            label: Text
+            name: '-3390cfed'
+            widget: text
+          - hint: >-
+              Original text: Cookie: cantitate mică de date generată de un site
+              web și salvată de browserul dumneavoastră web. Este folosit pentru
+              a vă identifica browserul, pentru a furniza analize, pentru a
+              reține informații despre dvs., cum ar fi preferința de limbă sau
+              informațiile de conectare., key: 7ad30b50
+            label: Text
+            name: 7ad30b50
+            widget: text
+          - hint: >-
+              Original text: Companie: când acești termeni menționează
+              „Companie”, „noi”, „noi” sau „nostru”, se referă la sc Little
+              Hanoi srl, (Str. Dej, Nr. 11, Camera 3, Bloc 90, Sc. A. Et. 2, Ap.
+              5, Timișoara 300637, Timiș, România), care este responsabil pentru
+              informațiile dumneavoastră conform acestor Termeni și Condiții.,
+              key: 35a7280b
+            label: Text
+            name: 35a7280b
+            widget: text
+          - hint: >-
+              Original text: Țara: unde își au sediul Little Hanoi sau
+              proprietarii/fondatorii Little Hanoi, în acest caz este România,
+              key: -46a4c01e
+            label: Text
+            name: '-46a4c01e'
+            widget: text
+          - hint: >-
+              Original text: Dispozitiv: orice dispozitiv conectat la internet,
+              cum ar fi un telefon, o tabletă, un computer sau orice alt
+              dispozitiv care poate fi folosit pentru a vizita Little Hanoi și a
+              utiliza serviciile., key: 11bcb1d1
+            label: Text
+            name: 11bcb1d1
+            widget: text
+          - hint: >-
+              Original text: Serviciu: se referă la serviciul furnizat de Little
+              Hanoi așa cum este descris în termenii relativi (dacă este
+              disponibil) și pe această platformă., key: -a89be1f
+            label: Text
+            name: '-a89be1f'
+            widget: text
+          - hint: >-
+              Original text: Serviciu terță parte: se referă la agenții de
+              publicitate, sponsorii de concurs, partenerii promoționali și de
+              marketing și alții care furnizează conținutul nostru sau ale căror
+              produse sau servicii credem că vă pot interesa., key: 18a7df53
+            label: Text
+            name: 18a7df53
+            widget: text
+          - hint: >-
+              Original text: Site: site-ul lui Little Hanoi, care poate fi
+              accesat prin această adresă URL: https://littlehanoi.ro/, key:
+              1b24ef66
+            label: Text
+            name: 1b24ef66
+            widget: text
+          - hint: >-
+              Original text: Dvs.: o persoană sau entitate care este
+              înregistrată la Little Hanoi pentru a utiliza Serviciile., key:
+              55f50c70
+            label: Text
+            name: 55f50c70
+            widget: text
+          - hint: 'Original text: Restricții, key: 298518e3'
+            label: Text
+            name: '298518e3'
+            widget: string
+          - hint: >-
+              Original text: Sunteți de acord să nu faceți și nu le veți permite
+              altora să:, key: -63ecb545
+            label: Text
+            name: '-63ecb545'
+            widget: string
+          - hint: >-
+              Original text: Licențiază, vinde, închiriază, închiriază,
+              atribuie, distribuie, transmite, găzduiește, externalizează,
+              dezvăluie sau exploatează în alt mod comercial site-ul web sau
+              pune platforma la dispoziția oricărei terțe părți., key: -76496b5
+            label: Text
+            name: '-76496b5'
+            widget: text
+          - hint: >-
+              Original text: Modificați, realizați lucrări derivate,
+              dezasamblați, decriptați, compilați invers sau faceți inginerie
+              inversă oricărei părți a site-ului web., key: -52f8c423
+            label: Text
+            name: '-52f8c423'
+            widget: text
+          - hint: >-
+              Original text: Eliminați, modificați sau ascundeți orice
+              notificare de proprietate (inclusiv orice notificare privind
+              drepturile de autor sau marcă comercială) a Little Hanoi sau a
+              afiliaților, partenerilor, furnizorilor sau licențiatorilor
+              site-ului., key: -7cf2fae8
+            label: Text
+            name: '-7cf2fae8'
+            widget: text
+          - hint: 'Original text: Plată, key: 499eb94'
+            label: Text
+            name: 499eb94
+            widget: string
+          - hint: >-
+              Original text: Dacă vă înregistrați la oricare dintre planurile
+              noastre de plată recurente, sunteți de acord să plătiți toate
+              taxele sau taxele în contul dumneavoastră pentru Serviciu în
+              conformitate cu taxele, taxele și termenii de facturare în vigoare
+              la momentul în care fiecare taxă sau taxă este datorată și
+              plătibilă. Cu excepția cazului în care se indică altfel într-un
+              formular de comandă, trebuie să furnizați Little Hanoi un card de
+              credit valid (Visa, MasterCard sau orice alt emitent acceptat de
+              noi) („Furnizor de plăți”) ca condiție pentru a vă înscrie la
+              planul Premium. Acordul dvs. cu Furnizorul de plăți guvernează
+              utilizarea de către dvs. a contului de card de credit desemnat și
+              trebuie să vă referiți la acel acord și nu acești Termeni pentru a
+              vă determina drepturile și obligațiile cu privire la Furnizorul
+              dvs. de plăți. Prin furnizarea lui Little Hanoi cu numărul
+              cardului dvs. de credit și informațiile de plată asociate, sunteți
+              de acord că Little Hanoi este autorizat să verifice informațiile
+              imediat și, ulterior, să vă factureze contul pentru toate taxele
+              și taxele datorate și plătibile către Little Hanoi în conformitate
+              cu prezentul document și că nu este necesară nicio notificare sau
+              consimțământ suplimentar. Sunteți de acord să notificați imediat
+              Little Hanoi cu privire la orice modificare a adresei dvs. de
+              facturare sau a cardului de credit utilizat pentru plata conform
+              prezentului. Little Hanoi își rezervă dreptul în orice moment de
+              a-și modifica prețurile și metodele de facturare, fie imediat după
+              postarea pe site-ul nostru, fie prin livrarea prin e-mail
+              administratorilor organizației dumneavoastră., key: -5106ed63
+            label: Text
+            name: '-5106ed63'
+            widget: text
+          - hint: >-
+              Original text: Orice onorarii de avocați, costuri judiciare sau
+              alte costuri suportate pentru colectarea sumelor nedisputate
+              necontestate vor fi responsabilitatea și plătite de dvs., key:
+              7da594a8
+            label: Text
+            name: 7da594a8
+            widget: text
+          - hint: >-
+              Original text: Nu va exista niciun contract între dumneavoastră și
+              Little Hanoi pentru Serviciu până când Little Hanoi nu acceptă
+              comanda dumneavoastră printr-un e-mail de confirmare, mesaj
+              SMS/MMS sau alte mijloace de comunicare adecvate., key: -26da4811
+            label: Text
+            name: '-26da4811'
+            widget: text
+          - hint: >-
+              Original text: Sunteți responsabil pentru orice taxe ale terților
+              pe care le puteți suporta atunci când utilizați Serviciul., key:
+              53df8bdb
+            label: Text
+            name: 53df8bdb
+            widget: text
+          - hint: 'Original text: Politica de returnare și rambursare, key: -21a55878'
+            label: Text
+            name: '-21a55878'
+            widget: string
+          - hint: >-
+              Original text: Vă mulțumim pentru cumpărături de la Little Hanoi.
+              Apreciem faptul că vă place să cumpărați lucrurile pe care le
+              construim. De asemenea, dorim să ne asigurăm că aveți o experiență
+              plină de satisfacții în timp ce explorați, evaluați și cumpărați
+              produsele noastre., key: -7858e558
+            label: Text
+            name: '-7858e558'
+            widget: text
+          - hint: >-
+              Original text: Ca în orice experiență de cumpărături, există
+              termeni și condiții care se aplică tranzacțiilor la Little Hanoi.
+              Vom fi la fel de scurti pe cât ne vor permite avocații noștri.
+              Principalul lucru de reținut este că, plasând o comandă sau făcând
+              o achiziție la Little Hanoi, sunteți de acord cu termenii împreună
+              cu Politica de confidențialitate a Little Hanoi., key: 10081221
+            label: Text
+            name: '10081221'
+            widget: text
+          - hint: >-
+              Original text: Dacă, din orice motiv, nu sunteți pe deplin
+              mulțumit de niciun bun sau serviciu pe care îl oferim, nu ezitați
+              să ne contactați și vom discuta despre oricare dintre problemele
+              prin care treceți cu produsul nostru., key: -67ec7e05
+            label: Text
+            name: '-67ec7e05'
+            widget: text
+          - hint: 'Original text: Sugestiile dumneavoastră, key: -70b9c25a'
+            label: Text
+            name: '-70b9c25a'
+            widget: string
+          - hint: >-
+              Original text: Orice feedback, comentarii, idei, îmbunătățiri sau
+              sugestii (colectiv, „Sugestii”) furnizate de dumneavoastră către
+              Little Hanoi cu privire la site-ul web vor rămâne proprietatea
+              unică și exclusivă a Little Hanoi., key: -3f50127c
+            label: Text
+            name: '-3f50127c'
+            widget: text
+          - hint: >-
+              Original text: Little Hanoi va fi liber să folosească, să copieze,
+              să modifice, să publice sau să redistribuie Sugestiile în orice
+              scop și în orice mod, fără niciun credit sau vreo compensație
+              pentru tine., key: 2107ed8e
+            label: Text
+            name: 2107ed8e
+            widget: text
+          - hint: 'Original text: Consimțământul dvs, key: ea94870'
+            label: Text
+            name: ea94870
+            widget: string
+          - hint: >-
+              Original text: Ne-am actualizat Termenii și condițiile pentru a vă
+              oferi o transparență completă asupra a ceea ce este setat atunci
+              când vizitați site-ul nostru și a modului în care este utilizat.
+              Prin utilizarea site-ului nostru web, înregistrarea unui cont sau
+              efectuarea unei achiziții, sunteți de acord cu Termenii și
+              condițiile noastre., key: 4e1aafdc
+            label: Text
+            name: 4e1aafdc
+            widget: text
+          - hint: 'Original text: Link-uri către alte site-uri web, key: 4b8aaabe'
+            label: Text
+            name: 4b8aaabe
+            widget: string
+          - hint: >-
+              Original text: Acești Termeni și Condiții se aplică numai
+              Serviciilor. Serviciile pot conține link-uri către alte site-uri
+              web care nu sunt operate sau controlate de Little Hanoi. Nu suntem
+              responsabili pentru conținutul, acuratețea sau opiniile exprimate
+              în astfel de site-uri web și astfel de site-uri web nu sunt
+              investigate, monitorizate sau verificate de către noi pentru
+              acuratețea sau completitudinea. Vă rugăm să rețineți că atunci
+              când utilizați un link pentru a merge de la Servicii la un alt
+              site web, Termenii și condițiile noastre nu mai sunt în vigoare.
+              Navigarea și interacțiunea dvs. pe orice alt site web, inclusiv pe
+              cele care au un link pe platforma noastră, sunt supuse regulilor
+              și politicilor site-ului respectiv. Aceste terțe părți pot folosi
+              propriile cookie-uri sau alte metode pentru a colecta informații
+              despre dvs., key: -19b11643
+            label: Text
+            name: '-19b11643'
+            widget: text
+          - hint: 'Original text: Cookie-uri, key: 18944ea3'
+            label: Text
+            name: 18944ea3
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi folosește „Cookie-uri” pentru a
+              identifica zonele site-ului nostru pe care le-ați vizitat. Un
+              cookie este o mică bucată de date stocată pe computerul sau
+              dispozitivul dvs. mobil de către browserul dvs. web. Folosim
+              module cookie pentru a îmbunătăți performanța și funcționalitatea
+              site-ului nostru web, dar nu sunt esențiale pentru utilizarea lor.
+              Cu toate acestea, fără aceste cookie-uri, anumite funcționalități,
+              cum ar fi videoclipurile, pot deveni indisponibile sau vi se va
+              cere să introduceți detaliile de conectare de fiecare dată când
+              vizitați site-ul web, deoarece nu ne-am putea aminti că v-ați
+              autentificat anterior. Majoritatea browserelor web pot fi setate
+              să dezactiveze utilizarea cookie-urilor. Cu toate acestea, dacă
+              dezactivați modulele cookie, este posibil să nu puteți accesa
+              corect sau deloc funcționalitățile de pe site-ul nostru web. Nu
+              plasăm niciodată informații de identificare personală în module
+              cookie., key: -7a2f9f9e
+            label: Text
+            name: '-7a2f9f9e'
+            widget: text
+          - hint: >-
+              Original text: Modificări ale Termenilor și condițiilor noastre,
+              key: 18ae035f
+            label: Text
+            name: 18ae035f
+            widget: string
+          - hint: >-
+              Original text: Recunoașteți și sunteți de acord că Little Hanoi
+              poate opri (permanent sau temporar) furnizarea Serviciului (sau a
+              oricăror caracteristici din cadrul Serviciului) dvs. sau
+              utilizatorilor, în general, la discreția Little Hanoi, fără
+              notificare prealabilă. Puteți înceta utilizarea Serviciului în
+              orice moment. Nu trebuie să informați în mod specific Little Hanoi
+              când încetați să utilizați Serviciul. Recunoașteți și sunteți de
+              acord că, dacă Little Hanoi dezactivează accesul la contul dvs.,
+              este posibil să fiți împiedicat să accesați Serviciul, detaliile
+              contului dvs. sau orice fișiere sau alte materiale conținute în
+              contul dvs., key: 23b2460f
+            label: Text
+            name: 23b2460f
+            widget: text
+          - hint: >-
+              Original text: Dacă decidem să ne schimbăm Termenii și condițiile,
+              vom publica acele modificări pe această pagină și/sau vom
+              actualiza data de modificare a Termenilor și condițiilor de mai
+              jos., key: -4d8527b8
+            label: Text
+            name: '-4d8527b8'
+            widget: text
+          - hint: 'Original text: Modificări ale site-ului nostru, key: -b8c9007'
+            label: Text
+            name: '-b8c9007'
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi își rezervă dreptul de a modifica,
+              suspenda sau întrerupe, temporar sau permanent, site-ul web sau
+              orice serviciu la care se conectează, cu sau fără notificare și
+              fără răspundere față de dvs., key: -5b8d846
+            label: Text
+            name: '-5b8d846'
+            widget: text
+          - hint: 'Original text: Actualizări ale site-ului nostru, key: -37e88781'
+            label: Text
+            name: '-37e88781'
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi poate oferi din când în când
+              îmbunătățiri sau îmbunătățiri ale
+              caracteristicilor/funcționalității site-ului web, care pot include
+              corecții, remedieri de erori, actualizări, upgrade-uri și alte
+              modificări ("Actualizări")., key: 4ac5eceb
+            label: Text
+            name: 4ac5eceb
+            widget: text
+          - hint: >-
+              Original text: Actualizările pot modifica sau șterge anumite
+              caracteristici și/sau funcționalități ale site-ului web. Sunteți
+              de acord că Little Hanoi nu are nicio obligație de a (i) să vă
+              furnizeze actualizări sau (ii) să vă ofere sau să activeze în
+              continuare caracteristici și/sau funcționalități specifice ale
+              site-ului web., key: -2e358c9a
+            label: Text
+            name: '-2e358c9a'
+            widget: text
+          - hint: >-
+              Original text: În plus, sunteți de acord că toate Actualizările
+              vor fi (i) considerate a constitui parte integrantă a site-ului
+              web și (ii) supuse termenilor și condițiilor acestui Acord., key:
+              -50159356
+            label: Text
+            name: '-50159356'
+            widget: text
+          - hint: 'Original text: Servicii de la terți, key: -2a2d7f4d'
+            label: Text
+            name: '-2a2d7f4d'
+            widget: string
+          - hint: >-
+              Original text: Este posibil să afișăm, să includem sau să punem la
+              dispoziție conținut terță parte (inclusiv date, informații,
+              aplicații și alte servicii de produse) sau să furnizăm link-uri
+              către site-uri web sau servicii terță parte („Servicii terță
+              parte”)., key: 4cd40ce6
+            label: Text
+            name: 4cd40ce6
+            widget: text
+          - hint: >-
+              Original text: Recunoașteți și sunteți de acord că Little Hanoi nu
+              va fi responsabil pentru niciun serviciu terță parte, inclusiv
+              pentru acuratețea, completitudinea, actualitatea, valabilitatea,
+              conformitatea cu drepturile de autor, legalitatea, decența,
+              calitatea sau orice alt aspect al acestora. Little Hanoi nu își
+              asumă și nu va avea nicio răspundere sau responsabilitate față de
+              dvs. sau de orice altă persoană sau entitate pentru orice Servicii
+              ale terților., key: -235421db
+            label: Text
+            name: '-235421db'
+            widget: text
+          - hint: >-
+              Original text: Serviciile terțelor părți și linkurile către
+              acestea sunt furnizate numai pentru a vă facilita, iar dvs. le
+              accesați și le utilizați în întregime pe propriul risc și sub
+              rezerva termenilor și condițiilor acestor terți., key: 63efc281
+            label: Text
+            name: 63efc281
+            widget: text
+          - hint: 'Original text: Termen și reziliere, key: 16cbcb4'
+            label: Text
+            name: 16cbcb4
+            widget: string
+          - hint: >-
+              Original text: Acest acord va rămâne în vigoare până la rezilierea
+              dvs. sau a Little Hanoi., key: -5c59ddf8
+            label: Text
+            name: '-5c59ddf8'
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi poate, la discreția sa, în orice
+              moment și pentru orice motiv sau fără motiv, să suspende sau să
+              rezilieze prezentul Acord cu sau fără notificare prealabilă., key:
+              -983f2dc
+            label: Text
+            name: '-983f2dc'
+            widget: text
+          - hint: >-
+              Original text: Acest Acord se va rezilia imediat, fără notificare
+              prealabilă din partea Little Hanoi, în cazul în care nu reușiți să
+              respectați vreo prevedere a acestui Acord. De asemenea, puteți
+              rezilia acest Acord ștergând site-ul web și toate copiile acestuia
+              de pe computerul dumneavoastră., key: -7e5f11fb
+            label: Text
+            name: '-7e5f11fb'
+            widget: text
+          - hint: >-
+              Original text: La rezilierea acestui Acord, veți înceta orice
+              utilizare a site-ului web și veți șterge toate copiile site-ului
+              de pe computer., key: -7b59b79e
+            label: Text
+            name: '-7b59b79e'
+            widget: text
+          - hint: >-
+              Original text: Rezilierea acestui Acord nu va limita niciunul
+              dintre drepturile sau remediile Little Hanoi în drept sau în
+              echitate în cazul încălcării de către dvs. (pe durata acestui
+              Acord) a oricăreia dintre obligațiile dumneavoastră conform
+              prezentului Acord., key: -69497851
+            label: Text
+            name: '-69497851'
+            widget: text
+          - hint: >-
+              Original text: Notificare privind încălcarea drepturilor de autor,
+              key: 59d8327c
+            label: Text
+            name: 59d8327c
+            widget: string
+          - hint: >-
+              Original text: Dacă sunteți proprietarul drepturilor de autor sau
+              un astfel de agent al proprietarului și credeți că orice material
+              de pe site-ul nostru web constituie o încălcare a drepturilor de
+              autor, vă rugăm să ne contactați, oferindu-ne următoarele
+              informații: (a) o semnătură fizică sau electronică a
+              proprietarului drepturilor de autor sau a unei persoane autorizate
+              să acționează în numele său; (b) identificarea materialului despre
+              care se pretinde că încalcă drepturile de autor; (c) informațiile
+              dvs. de contact, inclusiv adresa, numărul de telefon și un e-mail;
+              (d) o declarație a dvs. conform căreia credeți cu bună-credință că
+              utilizarea materialului nu este autorizată de proprietarii
+              drepturilor de autor; și (e) o declarație conform căreia
+              informațiile din notificare sunt corecte și, sub sancțiunea de
+              sperjur, sunteți autorizat să acționați în numele proprietarului.,
+              key: -1940f67c
+            label: Text
+            name: '-1940f67c'
+            widget: text
+          - hint: 'Original text: Despăgubiri, key: 364a98f1'
+            label: Text
+            name: 364a98f1
+            widget: string
+          - hint: >-
+              Original text: Sunteți de acord să despăgubiți și să lăsați Little
+              Hanoi și părinții, filialele, afiliații, funcționarii, angajații,
+              agenții, partenerii și licențiatorii (dacă există) săi săi fără
+              răspundere pentru orice pretenție sau cerere, inclusiv onorariile
+              rezonabile ale avocaților, datorate sau rezultate din: (a)
+              utilizarea site-ului web; (b) încălcarea prezentului acord sau a
+              oricărei legi sau reglementări; sau (c) încălcarea oricărui drept
+              al unei terțe părți., key: 727fb970
+            label: Text
+            name: 727fb970
+            widget: text
+          - hint: 'Original text: Fără garanții, key: -63d027d8'
+            label: Text
+            name: '-63d027d8'
+            widget: string
+          - hint: >-
+              Original text: Site-ul web vă este oferit „CA AȘA ESTE” și „AȘAT
+              DISPONIBIL” și cu toate defecțiunile și defectele fără garanție de
+              niciun fel. În măsura maximă permisă de legislația aplicabilă,
+              Little Hanoi, în nume propriu și în numele afiliaților săi și al
+              licențiatorilor și furnizorilor de servicii ai săi și respectivi,
+              declină în mod expres orice garanție, fie că este expresă,
+              implicită, statutară sau de altă natură, cu privire la site-ul
+              web, inclusiv toate garanțiile implicite de vandabilitate,
+              potrivire pentru un anumit scop, titlu și neîncălcare, precum și
+              garanțiile care pot apărea din cursul tranzacționării, cursului
+              performanței, utilizării sau practicii comerciale. Fără a se
+              limita la cele de mai sus, Little Hanoi nu oferă nicio garanție
+              sau angajament și nu face nicio declarație de niciun fel că
+              site-ul web va îndeplini cerințele dumneavoastră, va obține
+              rezultatele dorite,, key: 42795405
+            label: Text
+            name: '42795405'
+            widget: text
+          - hint: >-
+              Original text: Fără a limita cele de mai sus, nici Little Hanoi,
+              nici furnizorul Little Hanoi nu oferă nicio declarație sau
+              garanție de orice fel, expresă sau implicită: (i) cu privire la
+              funcționarea sau disponibilitatea site-ului web sau a
+              informațiilor, conținutului și materialelor sau produselor
+              incluse. pe el; (ii) că site-ul web va fi neîntrerupt sau fără
+              erori; (iii) în ceea ce privește acuratețea, fiabilitatea sau
+              actualitatea oricărei informații sau conținut furnizat prin
+              intermediul site-ului web; sau (iv) că site-ul web, serverele
+              sale, conținutul sau e-mailurile trimise de la sau în numele lui
+              Little Hanoi sunt lipsite de viruși, scripturi, cai troieni,
+              viermi, malware, bombe cu timp sau alte componente dăunătoare.,
+              key: 45becb9
+            label: Text
+            name: 45becb9
+            widget: text
+          - hint: >-
+              Original text: Unele jurisdicții nu permit excluderea sau
+              limitările garanțiilor implicite sau limitările privind drepturile
+              legale aplicabile ale unui consumator, astfel încât unele sau
+              toate excluderile și limitările de mai sus s-ar putea să nu vi se
+              aplice., key: 71bb4d7e
+            label: Text
+            name: 71bb4d7e
+            widget: text
+          - hint: 'Original text: Limitare a răspunderii, key: -602f5efc'
+            label: Text
+            name: '-602f5efc'
+            widget: string
+          - hint: >-
+              Original text: În ciuda oricăror daune pe care le-ați putea
+              suferi, întreaga răspundere a Little Hanoi și a oricăruia dintre
+              furnizorii săi în temeiul oricărei prevederi a acestui Acord și
+              remediul dumneavoastră exclusiv pentru toate cele de mai sus vor
+              fi limitate la suma plătită efectiv de dvs. pentru site-ul web.,
+              key: -1d5ba27
+            label: Text
+            name: '-1d5ba27'
+            widget: text
+          - hint: >-
+              Original text: În măsura maximă permisă de legea aplicabilă, în
+              niciun caz Little Hanoi sau furnizorii săi nu vor fi răspunzători
+              pentru orice daune speciale, incidentale, indirecte sau
+              consecutive (inclusiv, dar fără a se limita la, daune pentru
+              pierderea de profit, pentru pierderea de date). sau alte
+              informații, pentru întrerupere a activității, pentru vătămare
+              corporală, pentru pierderea confidențialității care decurge din
+              sau în orice mod legat de utilizarea sau incapacitatea de a
+              utiliza site-ul web, software-ul terților și/sau hardware-ul
+              terților utilizate cu site-ul web , sau altfel în legătură cu
+              orice prevedere a acestui Acord), chiar dacă Little Hanoi sau
+              orice furnizor a fost informat cu privire la posibilitatea unor
+              astfel de daune și chiar dacă remediul nu își atinge scopul
+              esențial., key: -47b8dd04
+            label: Text
+            name: '-47b8dd04'
+            widget: text
+          - hint: >-
+              Original text: Unele state/jurisdicții nu permit excluderea sau
+              limitarea daunelor incidentale sau consecutive, astfel încât
+              limitarea sau excluderea de mai sus este posibil să nu se aplice
+              în cazul dumneavoastră., key: 7a43eedc
+            label: Text
+            name: 7a43eedc
+            widget: text
+          - hint: 'Original text: Separabilitate, key: 48872af4'
+            label: Text
+            name: 48872af4
+            widget: string
+          - hint: >-
+              Original text: Dacă orice prevedere a prezentului Acord este
+              considerată inaplicabilă sau invalidă, o astfel de prevedere va fi
+              modificată și interpretată pentru a îndeplini obiectivele unei
+              astfel de prevederi în cea mai mare măsură posibilă în
+              conformitate cu legislația aplicabilă, iar prevederile rămase vor
+              continua în vigoare și în vigoare., key: 5c3ae6b7
+            label: Text
+            name: 5c3ae6b7
+            widget: text
+          - hint: >-
+              Original text: Acest Acord, împreună cu Politica de
+              confidențialitate și orice alte notificări legale publicate de
+              Little Hanoi cu privire la Servicii, vor constitui întregul acord
+              între dumneavoastră și Little Hanoi cu privire la Servicii. Dacă
+              orice prevedere a prezentului acord este considerată invalidă de
+              către o instanță de jurisdicție competentă, invaliditatea unei
+              astfel de prevederi nu va afecta valabilitatea prevederilor rămase
+              ale prezentului acord, care vor rămâne în vigoare și în vigoare.
+              Nicio renunțare la niciun termen din prezentul Acord nu va fi
+              considerată o renunțare ulterioară sau continuă la un astfel de
+              termen sau la orice alt termen, iar eșecul Little Hanoi de a
+              afirma vreun drept sau prevedere în temeiul prezentului Acord nu
+              va constitui o renunțare la acest drept sau prevedere. TU ȘI
+              Little Hanoi SUNTEȚI DE ACORD CĂ ORICE CAUZA DE ACȚIUNE DECORATA
+              DIN SAU LEGATĂ DE SERVICII TREBUIE SĂ ÎNCEPE ÎN TIMPUL DE UN (1)
+              AN DUPĂ CAUZA ACȚIUNII SE AFACE. ÎN CARTĂ CAUZA, ACESTE CAUZA DE
+              ACȚIUNE ESTE INTERDITĂ PERMANENT., key: 74350254
+            label: Text
+            name: '74350254'
+            widget: text
+          - hint: 'Original text: Renunțare, key: 35b50ad'
+            label: Text
+            name: 35b50ad
+            widget: string
+          - hint: >-
+              Original text: Cu excepția cazurilor prevăzute în prezentul
+              document, neexercitarea unui drept sau nerespectarea unei
+              obligații în temeiul prezentului acord nu va afecta capacitatea
+              unei părți de a-și exercita acest drept sau de a solicita o astfel
+              de îndeplinire în orice moment ulterior și nici renunțarea la o
+              încălcare nu va constitui renunțare la orice încălcare
+              ulterioară., key: 69f205af
+            label: Text
+            name: 69f205af
+            widget: text
+          - hint: >-
+              Original text: Nicio neexercitare și nicio întârziere în
+              exercitarea, de către oricare dintre părți, a vreunui drept sau a
+              oricărei puteri în temeiul prezentului Acord nu va funcționa ca o
+              renunțare la acel drept sau putere. Nici o exercitare unică sau
+              parțială a vreunui drept sau putere în temeiul prezentului Acord
+              nu va împiedica exercitarea ulterioară a acelui drept sau a
+              oricărui alt drept acordat prin prezentul acord. În cazul unui
+              conflict între acest Acord și orice achiziție sau alți termeni
+              aplicabili, vor guverna termenii acestui Acord., key: -203cdb56
+            label: Text
+            name: '-203cdb56'
+            widget: text
+          - hint: 'Original text: Amendamente la acest acord, key: 42b49703'
+            label: Text
+            name: 42b49703
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi își rezervă dreptul, la discreția sa,
+              de a modifica sau înlocui acest Acord în orice moment. Dacă o
+              revizuire este semnificativă, vom furniza un preaviz cu cel puțin
+              30 de zile înainte de intrarea în vigoare a oricăror termeni noi.
+              Ceea ce constituie o schimbare materială va fi stabilit la
+              discreția noastră., key: 4e4f7d2e
+            label: Text
+            name: 4e4f7d2e
+            widget: text
+          - hint: >-
+              Original text: Continuând să accesați sau să utilizați site-ul
+              nostru după ce orice revizuire devine efectivă, sunteți de acord
+              să respectați termenii revizuiți. Dacă nu sunteți de acord cu
+              noile condiții, nu mai sunteți autorizat să utilizați Little
+              Hanoi., key: -64df10d0
+            label: Text
+            name: '-64df10d0'
+            widget: text
+          - hint: 'Original text: Întregul acord, key: 16c909b6'
+            label: Text
+            name: 16c909b6
+            widget: string
+          - hint: >-
+              Original text: Acordul constituie întregul acord dintre
+              dumneavoastră și Little Hanoi cu privire la utilizarea de către
+              dumneavoastră a site-ului web și înlocuiește toate acordurile
+              scrise sau orale anterioare și contemporane dintre dumneavoastră
+              și Little Hanoi., key: -94e8ff3
+            label: Text
+            name: '-94e8ff3'
+            widget: text
+          - hint: >-
+              Original text: Este posibil să fiți supus unor termeni și condiții
+              suplimentare care se aplică atunci când utilizați sau cumpărați
+              alte servicii Little Hanoi, pe care Little Hanoi vi le va furniza
+              în momentul unei astfel de utilizări sau achiziții., key:
+              -11fbb2a0
+            label: Text
+            name: '-11fbb2a0'
+            widget: text
+          - hint: 'Original text: Actualizări ale Termenilor Noștri, key: 568c936d'
+            label: Text
+            name: 568c936d
+            widget: string
+          - hint: >-
+              Original text: Este posibil să ne schimbăm serviciul și politicile
+              și este posibil să fie nevoie să facem modificări acestor Termeni,
+              astfel încât să reflecte cu exactitate serviciul și politicile
+              noastre. Cu excepția cazului în care legea prevede altfel, vă vom
+              notifica (de exemplu, prin intermediul Serviciului nostru) înainte
+              de a face modificări la acești Termeni și vă vom oferi
+              posibilitatea de a le revizui înainte ca aceștia să intre în
+              vigoare. Apoi, dacă continuați să utilizați Serviciul, veți fi
+              obligat să respectați Termenii actualizați. Dacă nu doriți să fiți
+              de acord cu acești Termeni sau cu oricare dintre Termeni
+              actualizați, vă puteți șterge contul., key: 7b70496d
+            label: Text
+            name: 7b70496d
+            widget: text
+          - hint: 'Original text: Proprietate intelectuală, key: d4d3c9a'
+            label: Text
+            name: d4d3c9a
+            widget: string
+          - hint: >-
+              Original text: Site-ul web și întregul său conținut,
+              caracteristici și funcționalități (inclusiv, dar fără a se limita
+              la toate informațiile, software-ul, textul, afișajele, imaginile,
+              video și audio, precum și designul, selecția și aranjarea
+              acestora), sunt deținute de Little Hanoi, licențiatorii săi sau
+              alți furnizori de astfel de materiale și sunt protejați de
+              legislația internațională privind drepturile de autor, mărcile
+              comerciale, brevetele, secretele comerciale și alte drepturi de
+              proprietate intelectuală sau de proprietate. Materialul nu poate
+              fi copiat, modificat, reprodus, descărcat sau distribuit în niciun
+              fel, în întregime sau parțial, fără permisiunea prealabilă expresă
+              în scris a Little Hanoi, cu excepția cazului în care și cu
+              excepția cazurilor prevăzute în mod expres în acești Termeni și
+              Condiții. Orice utilizare neautorizată a materialului este
+              interzisă., key: 1b250415
+            label: Text
+            name: 1b250415
+            widget: text
+          - hint: 'Original text: Acordul de Arbitraj, key: 41a08554'
+            label: Text
+            name: 41a08554
+            widget: string
+          - hint: >-
+              Original text: Această secțiune se aplică oricărui litigiu, CU
+              EXCEPȚIA CĂ NU INCLUDE O LITIGIE REFERITĂ CU RECLAMAȚII PENTRU
+              REDUCERE AJUTOR SAU ECHITABILĂ CU PRIVIRE LA APLICAREA SAU
+              VALIDITATEA DREPTURILOR DVS. SAU MUCULUI Hanoi de proprietate
+              intelectuală. Termenul „dispută” înseamnă orice dispută, acțiune
+              sau altă controversă între dvs. și Little Hanoi cu privire la
+              Servicii sau acest acord, indiferent dacă este vorba de contract,
+              garanție, delict, statut, regulament, ordonanță sau orice altă
+              bază legală sau echitabilă. „Disputa” va primi sensul cel mai larg
+              posibil permis prin lege., key: -58631712
+            label: Text
+            name: '-58631712'
+            widget: text
+          - hint: 'Original text: Notificare de dispută, key: 3bb70cb9'
+            label: Text
+            name: 3bb70cb9
+            widget: string
+          - hint: "Original text: În cazul unei dispute, dumneavoastră sau Little Hanoi trebuie să transmiteți celuilalt o notificare de dispută, care este o declarație scrisă care precizează numele, adresa și informațiile de contact ale părții care o transmite, faptele care au dat naștere disputei, și scutirea cerută. Trebuie să trimiteți orice Notificare de Litigiu prin e-mail la: \_contact@littlehanoi.ro. Little Hanoi vă va trimite orice Notificare de Litigiu prin poștă la adresa dvs. dacă o avem sau, în caz contrar, la adresa dvs. de e-mail. Dvs. și Little Hanoi veți încerca să soluționați orice dispută prin negociere informală în termen de șaizeci (60) de zile de la data trimiterii anunțului de dispută. După șaizeci (60) de zile, dumneavoastră sau Little Hanoi puteți începe arbitrajul., key: 234d2bd2"
+            label: Text
+            name: 234d2bd2
+            widget: text
+          - hint: 'Original text: Arbitraj obligatoriu, key: 7307fc78'
+            label: Text
+            name: 7307fc78
+            widget: string
+          - hint: >-
+              Original text: Dacă dvs. și Little Hanoi nu rezolvați nicio
+              dispută prin negociere informală, orice alt efort de rezolvare a
+              disputei va fi efectuat exclusiv prin arbitraj obligatoriu, așa
+              cum este descris în această secțiune. Renunțați la dreptul de a
+              litigi (sau de a participa în calitate de parte sau de membru al
+              clasei) toate litigiile în instanță în fața unui judecător sau
+              juriu. Litigiul va fi soluționat prin arbitraj obligatoriu în
+              conformitate cu regulile de arbitraj comercial ale Asociației
+              Americane de Arbitraj. Oricare dintre părți poate solicita orice
+              măsuri provizorii sau preliminare de la orice instanță de
+              jurisdicție competentă, după cum este necesar pentru a proteja
+              drepturile sau proprietatea părții până la finalizarea
+              arbitrajului. Toate costurile, onorariile și cheltuielile legale,
+              contabile și de altă natură suportate de partea care prevalează
+              vor fi suportate de partea neprevalantă., key: 568234a0
+            label: Text
+            name: 568234a0
+            widget: text
+          - hint: 'Original text: Trimiteri și confidențialitate, key: 303f5727'
+            label: Text
+            name: 303f5727
+            widget: string
+          - hint: >-
+              Original text: În cazul în care trimiteți sau postați idei,
+              sugestii creative, design, fotografii, informații, reclame, date
+              sau propuneri, inclusiv idei pentru produse, servicii,
+              caracteristici, tehnologii sau promoții noi sau îmbunătățite,
+              sunteți de acord în mod expres că astfel de trimiteri vor fi
+              automat fi tratat ca neconfidențial și neproprietar și va deveni
+              proprietatea exclusivă a Little Hanoi fără nicio compensație sau
+              credit pentru dvs. Little Hanoi și afiliații săi nu vor avea nicio
+              obligație cu privire la astfel de trimiteri sau postări și pot
+              folosi ideile conținute în astfel de trimiteri sau postări în
+              orice scop, pe orice mediu, în permanență, inclusiv, dar fără a se
+              limita la, dezvoltarea, fabricarea și comercializarea produselor.
+              și servicii folosind astfel de idei., key: 671dd865
+            label: Text
+            name: 671dd865
+            widget: text
+          - hint: 'Original text: Promoții, key: -37773ed4'
+            label: Text
+            name: '-37773ed4'
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi poate include, din când în când,
+              concursuri, promoții, tombole sau alte activități („Promoții”)
+              care necesită să trimiți materiale sau informații despre tine.
+              Rețineți că toate promoțiile pot fi guvernate de reguli separate
+              care pot conține anumite cerințe de eligibilitate, cum ar fi
+              restricții privind vârsta și locația geografică. Sunteți
+              responsabil să citiți toate regulile promoțiilor pentru a
+              determina dacă sunteți sau nu eligibil pentru a participa. Dacă
+              intrați în orice Promoție, sunteți de acord să respectați și să
+              respectați toate Regulile Promoțiilor., key: 36c018b1
+            label: Text
+            name: 36c018b1
+            widget: text
+          - hint: >-
+              Original text: Termeni și condiții suplimentare se pot aplica
+              achizițiilor de bunuri sau servicii pe sau prin intermediul
+              Serviciilor, termeni și condiții care fac parte din prezentul
+              Acord prin această referință., key: 6f5057f3
+            label: Text
+            name: 6f5057f3
+            widget: text
+          - hint: 'Original text: Erori tipografice, key: 289b69e0'
+            label: Text
+            name: 289b69e0
+            widget: string
+          - hint: >-
+              Original text: În cazul în care un produs și/sau serviciu este
+              listat la un preț incorect sau cu informații incorecte din cauza
+              unei erori tipografice, vom avea dreptul de a refuza sau anula
+              orice comenzi plasate pentru produsul și/sau serviciul listat la
+              prețul incorect. Vom avea dreptul de a refuza sau anula orice
+              astfel de comandă, indiferent dacă comanda a fost sau nu
+              confirmată și cardul dvs. de credit debitat. Dacă cardul dvs. de
+              credit a fost deja debitat pentru achiziție și comanda dvs. este
+              anulată, vom emite imediat un credit în contul cardului dvs. de
+              credit sau în alt cont de plată în valoare de debitare., key:
+              4e8f3cae
+            label: Text
+            name: 4e8f3cae
+            widget: text
+          - hint: 'Original text: Diverse, key: -38fcf050'
+            label: Text
+            name: '-38fcf050'
+            widget: string
+          - hint: >-
+              Original text: Dacă, din orice motiv, o instanță de jurisdicție
+              competentă consideră că orice prevedere sau porțiune din acești
+              Termeni și condiții nu este aplicabilă, restul acestor Termeni și
+              condiții va continua în vigoare și efect. Orice renunțare la orice
+              prevedere din acești Termeni și condiții va intra în vigoare numai
+              dacă este în scris și este semnată de un reprezentant autorizat al
+              Little Hanoi. Little Hanoi va avea dreptul la injoncție sau la
+              alte măsuri echitabile (fără obligația de a depune vreo garanție
+              sau garanție) în cazul oricărei încălcări sau încălcări anticipate
+              din partea dvs. Little Hanoi operează și controlează Serviciul
+              Little Hanoi din birourile sale din România. Serviciul nu este
+              destinat distribuției sau utilizării de către nicio persoană sau
+              entitate în nicio jurisdicție sau țară în care o astfel de
+              distribuție sau utilizare ar fi contrară legii sau
+              reglementărilor. În consecinţă, acele persoane care aleg să
+              acceseze Serviciul Little Hanoi din alte locații fac acest lucru
+              din proprie inițiativă și sunt singurele responsabile pentru
+              respectarea legilor locale, dacă și în măsura în care legile
+              locale sunt aplicabile. Acești Termeni și Condiții (care includ și
+              încorporează Politica de confidențialitate a Little Hanoi) conține
+              întreaga înțelegere și înlocuiește toate înțelegerile anterioare
+              dintre dvs. și Little Hanoi cu privire la subiectul său și nu pot
+              fi modificate sau modificate de dvs. Titlurile secțiunilor
+              utilizate în acest Acord sunt doar pentru comoditate și nu vor
+              primi nicio importanță legală. Condițiile (care includ și
+              încorporează Politica de confidențialitate a Little Hanoi) conține
+              întreaga înțelegere și înlocuiește toate înțelegerile anterioare
+              dintre dvs. și Little Hanoi cu privire la subiectul său și nu pot
+              fi modificate sau modificate de dvs. Titlurile secțiunilor
+              utilizate în acest Acord sunt doar pentru comoditate și nu vor
+              primi nicio importanță legală. Condițiile (care includ și
+              încorporează Politica de confidențialitate a Little Hanoi) conține
+              întreaga înțelegere și înlocuiește toate înțelegerile anterioare
+              dintre dvs. și Little Hanoi cu privire la subiectul său și nu pot
+              fi modificate sau modificate de dvs. Titlurile secțiunilor
+              utilizate în acest Acord sunt doar pentru comoditate și nu vor
+              primi nicio importanță legală., key: 69b87e63
+            label: Text
+            name: 69b87e63
+            widget: text
+          - hint: 'Original text: Disclaimer, key: -6f68ae45'
+            label: Text
+            name: '-6f68ae45'
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi nu este responsabil pentru niciun
+              conținut, cod sau orice altă imprecizie., key: -33025bc0
+            label: Text
+            name: '-33025bc0'
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi nu oferă garanții sau garanții., key:
+              685350f4
+            label: Text
+            name: 685350f4
+            widget: string
+          - hint: >-
+              Original text: În nici un caz Little Hanoi nu va fi răspunzător
+              pentru orice daune speciale, directe, indirecte, consecvente sau
+              incidentale sau orice daune de orice fel, fie ca urmare a unei
+              acțiuni contractuale, neglijențe sau alte delicte, care decurg din
+              sau în legătură cu utilizarea Serviciului. sau conținutul
+              Serviciului. Compania își rezervă dreptul de a face adăugiri,
+              ștergere sau modificări la conținutul Serviciului în orice moment,
+              fără notificare prealabilă., key: 223ff945
+            label: Text
+            name: 223ff945
+            widget: text
+          - hint: >-
+              Original text: Serviciul Little Hanoi și conținutul său sunt
+              furnizate „ca atare” și „așa cum sunt disponibile” fără nicio
+              garanție sau reprezentare de niciun fel, fie că este expresă sau
+              implicită. Little Hanoi este un distribuitor și nu un editor al
+              conținutului furnizat de terți; ca atare, Little Hanoi nu exercită
+              nici un control editorial asupra acestui conținut și nu oferă
+              nicio garanție sau reprezentare cu privire la acuratețea,
+              fiabilitatea sau actualitatea oricărei informații, conținut,
+              serviciu sau mărfuri furnizate prin sau accesibile prin
+              intermediul Serviciului Little Hanoi. Fără a limita cele de mai
+              sus, Little Hanoi declină în mod special toate garanțiile și
+              declarațiile în orice conținut transmis pe sau în legătură cu
+              Serviciul Little Hanoi sau pe site-uri care pot apărea ca link-uri
+              pe Serviciul Little Hanoi sau în produsele furnizate ca parte a,
+              sau în alt mod în legătură cu Serviciul Little Hanoi, incluzând
+              fără limitare orice garanții de vandabilitate, potrivire pentru un
+              anumit scop sau neîncălcare a drepturilor terților. Niciun sfat
+              oral sau informații scrise oferite de Little Hanoi sau de oricare
+              dintre afiliații săi, angajații, ofițerii, directorii, agenții sau
+              altele asemenea nu vor crea o garanție. Informațiile despre preț
+              și disponibilitate pot fi modificate fără notificare. Fără a
+              limita cele de mai sus, Little Hanoi nu garantează că Serviciul
+              Little Hanoi va fi neîntrerupt, necorupt, în timp util sau fără
+              erori. directorii, agenții sau alții asemenea vor crea o garanție.
+              Informațiile despre preț și disponibilitate pot fi modificate fără
+              notificare. Fără a limita cele de mai sus, Little Hanoi nu
+              garantează că Serviciul Little Hanoi va fi neîntrerupt, necorupt,
+              în timp util sau fără erori. directorii, agenții sau alții
+              asemenea vor crea o garanție. Informațiile despre preț și
+              disponibilitate pot fi modificate fără notificare. Fără a limita
+              cele de mai sus, Little Hanoi nu garantează că Serviciul Little
+              Hanoi va fi neîntrerupt, necorupt, în timp util sau fără erori.,
+              key: 613f75d9
+            label: Text
+            name: 613f75d9
+            widget: text
+          - hint: 'Original text: Contactaţi-ne, key: 7973d9bd'
+            label: Text
+            name: 7973d9bd
+            widget: string
+          - hint: >-
+              Original text: Nu ezitați să ne contactați dacă aveți întrebări.,
+              key: -4042fb7a
+            label: Text
+            name: '-4042fb7a'
+            widget: string
+          - hint: 'Original text: Prin e-mail: contact@littlehanoi.ro, key: -9057150'
+            label: Text
+            name: '-9057150'
+            widget: string
+          - hint: >-
+              Original text: Prin numărul de telefon: +40 799 525 299, key:
+              -2bd2b8c7
+            label: Text
+            name: '-2bd2b8c7'
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi („noi”, „nostru” sau „noi”) se
+              angajează să vă protejeze confidențialitatea. Această politică de
+              confidențialitate explică modul în care informațiile dumneavoastră
+              personale sunt colectate, utilizate și dezvăluite de către Little
+              Hanoi., key: -66c8276d
+            label: Text
+            name: '-66c8276d'
+            widget: text
+          - hint: >-
+              Original text: Această politică de confidențialitate se aplică
+              site-ului nostru web și subdomeniilor asociate acestuia (colectiv,
+              „Serviciul nostru”) alături de aplicația noastră, Little Hanoi.
+              Prin accesarea sau utilizarea Serviciului nostru, semnificați că
+              ați citit, înțeles și sunteți de acord cu colectarea, stocarea,
+              utilizarea și dezvăluirea noastră a informațiilor dumneavoastră
+              personale, așa cum este descris în această Politică de
+              confidențialitate și în Termenii și condițiile noastre., key:
+              2928982d
+            label: Text
+            name: 2928982d
+            widget: text
+          - hint: >-
+              Original text: Pentru a explica lucrurile cât mai clar posibil în
+              această Politică de confidențialitate, de fiecare dată când se
+              face referire la oricare dintre acești termeni, sunt definiți
+              strict astfel:, key: -7725558e
+            label: Text
+            name: '-7725558e'
+            widget: text
+          - hint: >-
+              Original text: Companie: când această politică menționează
+              „Companie”, „noi”, „noi” sau „nostru”, se referă la sc Little
+              Hanoi srl, (Str. Dej, Nr. 11, Camera 3, Bloc 90, Sc. A. Et. 2, Ap.
+              5, Timișoara 300637, Timiș, România), care este responsabil pentru
+              informațiile dumneavoastră conform acestei Politici de
+              confidențialitate., key: 1d896580
+            label: Text
+            name: 1d896580
+            widget: text
+          - hint: >-
+              Original text: Client: se referă la compania, organizația sau
+              persoana care se înscrie pentru a utiliza Serviciul Little Hanoi
+              pentru a gestiona relațiile cu consumatorii sau utilizatorii
+              serviciilor., key: 54c1dcf9
+            label: Text
+            name: 54c1dcf9
+            widget: text
+          - hint: >-
+              Original text: Adresă IP: Fiecărui dispozitiv conectat la Internet
+              i se atribuie un număr cunoscut sub numele de adresă de protocol
+              Internet (IP). Aceste numere sunt de obicei atribuite în blocuri
+              geografice. O adresă IP poate fi adesea folosită pentru a
+              identifica locația din care un dispozitiv se conectează la
+              Internet., key: 4edec92c
+            label: Text
+            name: 4edec92c
+            widget: text
+          - hint: >-
+              Original text: Personal: se referă la acele persoane care sunt
+              angajate de Little Hanoi sau sunt sub contract pentru a presta un
+              serviciu în numele uneia dintre părți., key: -3a2621cc
+            label: Text
+            name: '-3a2621cc'
+            widget: text
+          - hint: >-
+              Original text: Date personale: orice informație care în mod
+              direct, indirect sau în legătură cu alte informații – inclusiv un
+              număr de identificare personală – permite identificarea sau
+              identificarea unei persoane fizice., key: -1af8dfe0
+            label: Text
+            name: '-1af8dfe0'
+            widget: text
+          - hint: 'Original text: Ce informații colectăm?, key: 5c9ba440'
+            label: Text
+            name: 5c9ba440
+            widget: string
+          - hint: >-
+              Original text: Colectăm informații de la dvs. atunci când vizitați
+              site-ul nostru, vă înregistrați pe site-ul nostru, plasați o
+              comandă, vă abonați la newsletter-ul nostru, răspundeți la un
+              sondaj sau completați un formular., key: -175e43d1
+            label: Text
+            name: '-175e43d1'
+            widget: text
+          - hint: 'Original text: Nume / Nume de utilizator, key: -4b18b7c7'
+            label: Text
+            name: '-4b18b7c7'
+            widget: string
+          - hint: 'Original text: Numere de telefon, key: 790198ea'
+            label: Text
+            name: 790198ea
+            widget: string
+          - hint: 'Original text: Adrese de email, key: -39cc0a2b'
+            label: Text
+            name: '-39cc0a2b'
+            widget: string
+          - hint: 'Original text: Adrese poștale, key: -181e85f8'
+            label: Text
+            name: '-181e85f8'
+            widget: string
+          - hint: 'Original text: Titluri de post, key: 6bf8a03e'
+            label: Text
+            name: 6bf8a03e
+            widget: string
+          - hint: 'Original text: Adrese de facturare, key: 2fe73d64'
+            label: Text
+            name: 2fe73d64
+            widget: string
+          - hint: 'Original text: Numerele cardurilor de debit/credit, key: -735479dd'
+            label: Text
+            name: '-735479dd'
+            widget: string
+          - hint: 'Original text: Vârstă, key: -6098e9a4'
+            label: Text
+            name: '-6098e9a4'
+            widget: string
+          - hint: 'Original text: Parola, key: -71efe5fd'
+            label: Text
+            name: '-71efe5fd'
+            widget: string
+          - hint: >-
+              Original text: De asemenea, colectăm informații de pe
+              dispozitivele mobile pentru o experiență mai bună a
+              utilizatorului, deși aceste funcții sunt complet opționale:, key:
+              -5df1a99a
+            label: Text
+            name: '-5df1a99a'
+            widget: text
+          - hint: >-
+              Original text: Locație (GPS): datele despre locație ajută la
+              crearea unei reprezentări exacte a intereselor dvs., iar aceasta
+              poate fi folosită pentru a aduce reclame mai direcționate și mai
+              relevante clienților potențiali., key: -33f1e329
+            label: Text
+            name: '-33f1e329'
+            widget: text
+          - hint: >-
+              Original text: Agenda telefonică (Lista de contacte): Lista dvs.
+              de contacte permite să fie mult mai ușor de utilizat de către
+              utilizator, deoarece accesarea persoanelor de contact din
+              aplicație vă face să economisiți o mulțime de timp., key: 118074b
+            label: Text
+            name: 118074b
+            widget: text
+          - hint: >-
+              Original text: Cameră (imagini): acordarea permisiunii camerei
+              permite utilizatorului să încarce orice fotografie direct din .
+              Puteți refuza în siguranță permisiunile camerei pentru aceasta .,
+              key: -73bef092
+            label: Text
+            name: '-73bef092'
+            widget: text
+          - hint: >-
+              Original text: Galerie foto (Imagini): Acordarea accesului la
+              galeria foto permite utilizatorului să încarce orice imagine din
+              galeria foto, puteți refuza în siguranță accesul la galeria foto
+              pentru aceasta ., key: -79c0f0d4
+            label: Text
+            name: '-79c0f0d4'
+            widget: text
+          - hint: >-
+              Original text: Când Little Hanoi folosește informațiile
+              utilizatorului final de la terți?, key: 25f55e12
+            label: Text
+            name: 25f55e12
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi va colecta Datele utilizatorului final
+              necesare pentru a furniza serviciile Little Hanoi clienților
+              noștri. Utilizatorii finali ne pot furniza în mod voluntar
+              informațiile pe care le-au pus la dispoziție pe site-urile de
+              social media. Dacă ne furnizați orice astfel de informații, este
+              posibil să colectăm informații disponibile public de pe site-urile
+              de socializare pe care le-ați indicat. Puteți controla cât de
+              multe dintre informațiile dvs. fac publice site-urile de rețele
+              sociale, vizitând aceste site-uri web și modificându-vă setările
+              de confidențialitate., key: 60cffb0a
+            label: Text
+            name: 60cffb0a
+            widget: text
+          - hint: >-
+              Original text: Când Little Hanoi utilizează informații despre
+              clienți de la terți?, key: 5bf4a66f
+            label: Text
+            name: 5bf4a66f
+            widget: string
+          - hint: >-
+              Original text: Primim unele informații de la terți atunci când ne
+              contactați. De exemplu, atunci când ne trimiteți adresa de e-mail
+              pentru a manifesta interesul de a deveni client Little Hanoi,
+              primim informații de la o terță parte care furnizează servicii
+              automate de detectare a fraudelor către Little Hanoi. De asemenea,
+              colectăm ocazional informații care sunt puse la dispoziția
+              publicului pe site-urile de social media. Puteți controla cât de
+              multe dintre informațiile dvs. fac publice site-urile de rețele
+              sociale, vizitând aceste site-uri web și modificându-vă setările
+              de confidențialitate., key: 1f9f6e6c
+            label: Text
+            name: 1f9f6e6c
+            widget: text
+          - hint: >-
+              Original text: Împărtășim informațiile pe care le colectăm cu
+              terți?, key: -23c0b31
+            label: Text
+            name: '-23c0b31'
+            widget: string
+          - hint: >-
+              Original text: Putem împărtăși informațiile pe care le colectăm,
+              atât personale, cât și non-personale, cu terțe părți, cum ar fi
+              agenții de publicitate, sponsorii de concurs, partenerii
+              promoționali și de marketing și alte persoane care furnizează
+              conținutul nostru sau ale căror produse sau servicii credem că vă
+              pot interesa. De asemenea, îl putem împărtăși cu companiile
+              noastre afiliate actuale și viitoare și cu partenerii de afaceri
+              și, dacă suntem implicați într-o fuziune, vânzare de active sau
+              altă reorganizare a afacerii, putem, de asemenea, să împărtășim
+              sau să transferăm informațiile dvs. personale și non-personale
+              succesorilor noștri. -interes., key: -1684c303
+            label: Text
+            name: '-1684c303'
+            widget: text
+          - hint: >-
+              Original text: Putem angaja furnizori de servicii terți de
+              încredere pentru a îndeplini funcții și a ne furniza servicii, cum
+              ar fi găzduirea și întreținerea serverelor noastre și a site-ului
+              web, stocarea și gestionarea bazei de date, gestionarea
+              e-mailului, marketingul stocării, procesarea cărților de credit,
+              serviciul pentru clienți și onorarea comenzilor. pentru produsele
+              și serviciile pe care le puteți achiziționa prin intermediul
+              site-ului web. Probabil că vom partaja informațiile dvs. personale
+              și, eventual, unele informații non-personale, acestor terți,
+              pentru a le permite să presteze aceste servicii pentru noi și
+              pentru dvs., key: 3d0df8c5
+            label: Text
+            name: 3d0df8c5
+            widget: text
+          - hint: >-
+              Original text: Este posibil să partajăm părți din datele
+              fișierului nostru jurnal, inclusiv adrese IP, în scopuri de
+              analiză, cu terțe părți, cum ar fi parteneri de analiză web,
+              dezvoltatori de aplicații și rețele publicitare. Dacă adresa dvs.
+              IP este partajată, aceasta poate fi utilizată pentru a estima
+              locația generală și alte elemente tehnologice, cum ar fi viteza
+              conexiunii, dacă ați vizitat site-ul într-o locație partajată și
+              tipul de dispozitiv utilizat pentru a vizita site-ul. Aceștia pot
+              agrega informații despre publicitatea noastră și despre ceea ce
+              vedeți pe site și apoi să ofere auditare, cercetare și raportare
+              pentru noi și agenții noștri de publicitate., key: -2b6279b4
+            label: Text
+            name: '-2b6279b4'
+            widget: text
+          - hint: >-
+              Original text: De asemenea, putem dezvălui informații personale și
+              non-personale despre dvs. autorităților guvernamentale sau de
+              aplicare a legii sau părților private, așa cum, la discreția
+              noastră, considerăm că este necesar sau adecvat pentru a răspunde
+              la reclamații, la procesele legale (inclusiv la citații), pentru a
+              ne proteja. drepturile și interesele sau cele ale unei terțe
+              părți, siguranța publicului sau a oricărei persoane, pentru a
+              preveni sau a opri orice activitate ilegală, lipsită de etică sau
+              care poate fi acționată din punct de vedere legal sau pentru a
+              respecta în alt mod ordinele judecătorești, legile, regulile și
+              reglementările aplicabile., key: -735ce86c
+            label: Text
+            name: '-735ce86c'
+            widget: text
+          - hint: >-
+              Original text: Unde și când sunt colectate informațiile de la
+              clienți și utilizatori finali?, key: -6d9b7366
+            label: Text
+            name: '-6d9b7366'
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi va colecta informații personale pe
+              care ni le trimiteți. De asemenea, este posibil să primim
+              informații personale despre dvs. de la terți, așa cum este descris
+              mai sus., key: 30393599
+            label: Text
+            name: '30393599'
+            widget: text
+          - hint: >-
+              Original text: Cum folosim informațiile pe care le colectăm?, key:
+              3b9a4566
+            label: Text
+            name: 3b9a4566
+            widget: string
+          - hint: >-
+              Original text: Oricare dintre informațiile pe care le colectăm de
+              la dvs. poate fi utilizată în unul dintre următoarele moduri:,
+              key: 75fddbf1
+            label: Text
+            name: 75fddbf1
+            widget: text
+          - hint: >-
+              Original text: Pentru a vă personaliza experiența (informațiile
+              dumneavoastră ne ajută să răspundem mai bine nevoilor
+              dumneavoastră individuale), key: -2dd3695f
+            label: Text
+            name: '-2dd3695f'
+            widget: text
+          - hint: >-
+              Original text: Pentru a ne îmbunătăți site-ul web (ne străduim
+              continuu să îmbunătățim ofertele site-ului nostru pe baza
+              informațiilor și feedback-ului pe care le primim de la dvs.), key:
+              -1f6ff2d0
+            label: Text
+            name: '-1f6ff2d0'
+            widget: text
+          - hint: >-
+              Original text: Pentru a îmbunătăți serviciile pentru clienți
+              (informațiile dvs. ne ajută să răspundem mai eficient
+              solicitărilor dvs. de servicii pentru clienți și nevoilor de
+              asistență), key: -ea1110b
+            label: Text
+            name: '-ea1110b'
+            widget: text
+          - hint: 'Original text: Pentru procesarea tranzacțiilor, key: 7c655e38'
+            label: Text
+            name: 7c655e38
+            widget: string
+          - hint: >-
+              Original text: Pentru a administra un concurs, o promovare, un
+              sondaj sau o altă funcție a site-ului, key: 257de760
+            label: Text
+            name: 257de760
+            widget: string
+          - hint: >-
+              Original text: Pentru a trimite e-mailuri periodice, key:
+              -5232e4f2
+            label: Text
+            name: '-5232e4f2'
+            widget: string
+          - hint: 'Original text: Cum folosim adresa ta de e-mail?, key: -2f29c42e'
+            label: Text
+            name: '-2f29c42e'
+            widget: string
+          - hint: >-
+              Original text: Prin trimiterea adresei dumneavoastră de e-mail pe
+              acest site, sunteți de acord să primiți e-mailuri de la noi. Vă
+              puteți anula oricând participarea la oricare dintre aceste liste
+              de e-mail făcând clic pe link-ul de renunțare sau pe altă opțiune
+              de dezabonare care este inclusă în e-mailul respectiv. Trimitem
+              e-mailuri doar persoanelor care ne-au autorizat să le contactăm,
+              fie direct, fie printr-o terță parte. Nu trimitem e-mailuri
+              comerciale nesolicitate, deoarece urâm spam-ul la fel de mult ca
+              tine. Prin trimiterea adresei dvs. de e-mail, sunteți de asemenea
+              de acord să ne permiteți să folosim adresa dvs. de e-mail pentru
+              direcționarea către publicul clienților pe site-uri precum
+              Facebook, unde afișăm publicitate personalizată anumitor persoane
+              care au optat pentru a primi comunicări de la noi. Adresele de
+              e-mail trimise numai prin intermediul paginii de procesare a
+              comenzii vor fi utilizate cu scopul exclusiv de a vă trimite
+              informații și actualizări referitoare la comanda dumneavoastră.
+              Dacă, totuși, ne-ați furnizat același e-mail printr-o altă metodă,
+              îl putem folosi în oricare dintre scopurile menționate în această
+              Politică. Notă: Dacă în orice moment doriți să vă dezabonați de la
+              primirea de e-mailuri viitoare, includem instrucțiuni detaliate de
+              dezabonare în partea de jos a fiecărui e-mail., key: -79800f04
+            label: Text
+            name: '-79800f04'
+            widget: text
+          - hint: 'Original text: Cât timp păstrăm informațiile dvs.?, key: -421adbbd'
+            label: Text
+            name: '-421adbbd'
+            widget: string
+          - hint: >-
+              Original text: Păstrăm informațiile dumneavoastră doar atâta timp
+              cât avem nevoie de ele pentru a vă oferi Little Hanoi și pentru a
+              îndeplini scopurile descrise în această politică. Acesta este și
+              cazul oricărei persoane cărora le împărtășim informațiile și care
+              prestează servicii în numele nostru. Când nu mai trebuie să
+              folosim informațiile dvs. și nu este nevoie să le păstrăm pentru a
+              ne conforma obligațiilor legale sau de reglementare, fie le vom
+              elimina din sistemele noastre, fie le vom depersonaliza, astfel
+              încât să nu vă putem identifica., key: -24a02ced
+            label: Text
+            name: '-24a02ced'
+            widget: text
+          - hint: 'Original text: Cum vă protejăm informațiile?, key: -48dcc379'
+            label: Text
+            name: '-48dcc379'
+            widget: string
+          - hint: >-
+              Original text: Implementăm o varietate de măsuri de securitate
+              pentru a menține siguranța informațiilor dumneavoastră personale
+              atunci când plasați o comandă sau introduceți, trimiteți sau
+              accesați informațiile dumneavoastră personale. Oferim utilizarea
+              unui server securizat. Toate informațiile sensibile/de credit
+              furnizate sunt transmise prin tehnologia Secure Socket Layer (SSL)
+              și apoi criptate în baza noastră de date a furnizorilor de gateway
+              de plată numai pentru a fi accesibile de către cei autorizați cu
+              drepturi speciale de acces la astfel de sisteme și li se cere să
+              păstreze confidențialitatea informațiilor. După o tranzacție,
+              informațiile dumneavoastră private (cărți de credit, numere de
+              asigurări sociale, informații financiare etc.) nu sunt niciodată
+              păstrate în dosar. Cu toate acestea, nu putem asigura sau garanta
+              securitatea absolută a oricăror informații pe care le transmiteți
+              către Little Hanoi sau să garantăm că informațiile dvs. din
+              Serviciu nu pot fi accesate, dezvăluite, modificate,, key:
+              -7dec9695
+            label: Text
+            name: '-7dec9695'
+            widget: text
+          - hint: >-
+              Original text: Informațiile mele ar putea fi transferate în alte
+              țări?, key: 164d297f
+            label: Text
+            name: 164d297f
+            widget: string
+          - hint: >-
+              Original text: Little Hanoi este înființată în România.
+              Informațiile colectate prin intermediul site-ului nostru web, prin
+              interacțiuni directe cu dvs. sau din utilizarea serviciilor
+              noastre de ajutor pot fi transferate din când în când către
+              birourile sau personalul nostru sau către terțe părți, situate în
+              întreaga lume și pot fi vizualizate și găzduite oriunde în lumea,
+              inclusiv țările care nu au legi de aplicabilitate generală care
+              reglementează utilizarea și transferul acestor date. În măsura
+              maximă permisă de legea aplicabilă, prin utilizarea oricăreia
+              dintre cele de mai sus, sunteți voluntar de acord cu transferul
+              transfrontalier și găzduirea acestor informații., key: 1e239f3b
+            label: Text
+            name: 1e239f3b
+            widget: text
+          - hint: >-
+              Original text: Informațiile colectate prin Serviciul Little Hanoi
+              sunt sigure?, key: 494158a
+            label: Text
+            name: 494158a
+            widget: string
+          - hint: >-
+              Original text: Luăm măsuri de precauție pentru a proteja
+              securitatea informațiilor dvs. Avem proceduri fizice, electronice
+              și manageriale pentru a ajuta la protejarea, prevenirea accesului
+              neautorizat, menținerea securității datelor și utilizarea corectă
+              a informațiilor dumneavoastră. Cu toate acestea, nici oamenii,
+              nici sistemele de securitate nu sunt sigure, inclusiv sistemele de
+              criptare. În plus, oamenii pot comite infracțiuni intenționate,
+              pot greși sau nu respectă politicile. Prin urmare, deși depunem
+              eforturi rezonabile pentru a vă proteja informațiile personale, nu
+              putem garanta securitatea lor absolută. Dacă legea aplicabilă
+              impune vreo obligație care nu poate fi respinsă de a vă proteja
+              informațiile personale, sunteți de acord că standardele utilizate
+              pentru a măsura respectarea acestei obligații vor fi comportamente
+              greșite intenționate., key: -98410a5
+            label: Text
+            name: '-98410a5'
+            widget: text
+          - hint: >-
+              Original text: Îmi pot actualiza sau corecta informațiile?, key:
+              -79a8c0c4
+            label: Text
+            name: '-79a8c0c4'
+            widget: string
+          - hint: >-
+              Original text: Drepturile pe care le aveți de a solicita
+              actualizări sau corecții ale informațiilor pe care le colectează
+              Little Hanoi depind de relația dumneavoastră cu Little Hanoi.
+              Personalul își poate actualiza sau corecta informațiile, așa cum
+              este detaliat în politicile noastre interne de angajare ale
+              companiei., key: 5cb30e73
+            label: Text
+            name: 5cb30e73
+            widget: text
+          - hint: >-
+              Original text: Clienții au dreptul de a solicita restricția
+              anumitor utilizări și dezvăluiri de informații de identificare
+              personală, după cum urmează. Ne puteți contacta pentru a (1)
+              actualiza sau corecta informațiile dvs. de identificare personală,
+              (2) pentru a vă schimba preferințele cu privire la comunicările și
+              alte informații pe care le primiți de la noi sau (3) pentru a
+              șterge informațiile de identificare personală păstrate despre dvs.
+              sisteme (sub rezerva următorului paragraf), prin anularea contului
+              dvs. Astfel de actualizări, corecții, modificări și ștergeri nu
+              vor avea niciun efect asupra altor informații pe care le menținem
+              sau asupra informațiilor pe care le-am furnizat terților în
+              conformitate cu această Politică de confidențialitate înainte de o
+              astfel de actualizare, corectare, modificare sau ștergere. Pentru
+              a vă proteja confidențialitatea și securitatea, este posibil să
+              luăm măsuri rezonabile (cum ar fi solicitarea unei parole unice)
+              pentru a vă verifica identitatea înainte de a vă acorda acces la
+              profil sau de a face corecții. Sunteți responsabil pentru
+              păstrarea în permanență a secretului parolei dvs. unice și a
+              informațiilor despre cont., key: 1ee96b69
+            label: Text
+            name: 1ee96b69
+            widget: text
+          - hint: >-
+              Original text: Trebuie să știți că nu este posibil din punct de
+              vedere tehnologic să eliminați fiecare înregistrare a
+              informațiilor pe care ni le-ați furnizat din sistemul nostru.
+              Necesitatea de a face copii de siguranță ale sistemelor noastre
+              pentru a proteja informațiile împotriva pierderii accidentale
+              înseamnă că o copie a informațiilor dvs. poate exista într-o formă
+              care nu poate fi ștearsă, care va fi dificil sau imposibil de
+              găsit pentru noi. Imediat după primirea solicitării dumneavoastră,
+              toate informațiile personale stocate în bazele de date pe care le
+              folosim în mod activ și alte medii ușor de căutat vor fi
+              actualizate, corectate, modificate sau șterse, după caz, de îndată
+              ce și în măsura în care este posibil din punct de vedere tehnic și
+              rezonabil., key: -2f674e96
+            label: Text
+            name: '-2f674e96'
+            widget: text
+          - hint: >-
+              Original text: Dacă sunteți utilizator final și doriți să
+              actualizați, să ștergeți sau să primiți orice informație pe care o
+              avem despre dvs., puteți face acest lucru contactând organizația
+              al cărei client sunteți., key: 40219349
+            label: Text
+            name: '40219349'
+            widget: text
+          - hint: 'Original text: Personal, key: 1e448a60'
+            label: Text
+            name: 1e448a60
+            widget: string
+          - hint: >-
+              Original text: Dacă sunteți un lucrător sau un solicitant Little
+              Hanoi, colectăm informațiile pe care ni le furnizați în mod
+              voluntar. Folosim informațiile colectate în scopuri de resurse
+              umane pentru a administra beneficii lucrătorilor și pentru a
+              selecta solicitanții., key: 382b4f34
+            label: Text
+            name: 382b4f34
+            widget: text
+          - hint: >-
+              Original text: Ne puteți contacta pentru a (1) actualiza sau
+              corecta informațiile dvs., (2) schimba preferințele dumneavoastră
+              cu privire la comunicările și alte informații pe care le primiți
+              de la noi sau (3) primiți o înregistrare a informațiilor pe care
+              le avem referitoare la dumneavoastră. Astfel de actualizări,
+              corecții, modificări și ștergeri nu vor avea niciun efect asupra
+              altor informații pe care le menținem sau asupra informațiilor pe
+              care le-am furnizat terților în conformitate cu această Politică
+              de confidențialitate înainte de o astfel de actualizare,
+              corectare, modificare sau ștergere., key: -26d15a51
+            label: Text
+            name: '-26d15a51'
+            widget: text
+          - hint: 'Original text: Vânzarea de afaceri, key: -4f53ff4f'
+            label: Text
+            name: '-4f53ff4f'
+            widget: string
+          - hint: >-
+              Original text: Ne rezervăm dreptul de a transfera informații unei
+              terțe părți în cazul unei vânzări, fuziuni sau alt transfer al
+              tuturor sau în mod substanțial al tuturor activelor Little Hanoi
+              sau ale oricăruia dintre filialele sale corporative (așa cum sunt
+              definite aici) sau acelei părți din Little. Hanoi sau oricare
+              dintre afiliații săi corporativi la care se referă Serviciul sau
+              în cazul în care ne întrerupem activitatea sau depunem o petiție
+              sau am depus împotriva noastră o petiție în faliment, reorganizare
+              sau procedură similară, cu condiția ca terțul să fie de acord să
+              adere la termenii acestei Politici de confidențialitate., key:
+              -1402fdb6
+            label: Text
+            name: '-1402fdb6'
+            widget: text
+          - hint: 'Original text: Afiliați, key: 2d382cee'
+            label: Text
+            name: 2d382cee
+            widget: string
+          - hint: >-
+              Original text: Putem dezvălui informații (inclusiv informații
+              personale) despre dvs. către afiliații noștri corporativi. În
+              sensul acestei Politici de confidențialitate, „Afiliat corporativ”
+              înseamnă orice persoană sau entitate care controlează, direct sau
+              indirect, este controlată de sau se află sub control comun cu
+              Little Hanoi, fie prin proprietate sau altfel. Orice informații
+              referitoare la dumneavoastră pe care le furnizăm afiliaților
+              noștri corporativi vor fi tratate de acești afiliați corporativi
+              în conformitate cu termenii acestei Politici de
+              confidențialitate., key: -1b1adaf8
+            label: Text
+            name: '-1b1adaf8'
+            widget: text
+          - hint: 'Original text: Legea aplicabilă, key: -72a70a42'
+            label: Text
+            name: '-72a70a42'
+            widget: string
+          - hint: >-
+              Original text: Această Politică de confidențialitate este
+              guvernată de legile României, fără a ține cont de prevederile
+              privind conflictul de legi. Sunteți de acord cu jurisdicția
+              exclusivă a instanțelor în legătură cu orice acțiune sau dispută
+              apărută între părți în cadrul sau în legătură cu această Politică
+              de confidențialitate, cu excepția acelor persoane care ar putea
+              avea drepturi de a depune pretenții conform Privacy Shield sau
+              cadrul Elveția-SUA., key: -74a9f246
+            label: Text
+            name: '-74a9f246'
+            widget: text
+          - hint: >-
+              Original text: Legile României, excluzând regulile privind
+              conflictele de legi, vor guverna acest Acord și utilizarea
+              site-ului de către dumneavoastră. Utilizarea de către dvs. a
+              site-ului web poate fi, de asemenea, supusă altor legi locale,
+              statale, naționale sau internaționale., key: -316f1e
+            label: Text
+            name: '-316f1e'
+            widget: text
+          - hint: >-
+              Original text: Folosind Little Hanoi sau contactându-ne direct,
+              înseamnă că acceptați această Politică de confidențialitate. Dacă
+              nu sunteți de acord cu această Politică de confidențialitate, nu
+              trebuie să vă implicați cu site-ul nostru web sau să utilizați
+              serviciile noastre. Utilizarea în continuare a site-ului web,
+              implicarea directă cu noi sau în urma postării unor modificări la
+              această Politică de confidențialitate care nu afectează în mod
+              semnificativ utilizarea sau dezvăluirea informațiilor
+              dumneavoastră personale va însemna că acceptați aceste
+              modificări., key: -41709eca
+            label: Text
+            name: '-41709eca'
+            widget: text
+          - hint: >-
+              Original text: Am actualizat Politica noastră de confidențialitate
+              pentru a vă oferi o transparență completă cu privire la ceea ce
+              este setat atunci când vizitați site-ul nostru și modul în care
+              este utilizat. Folosind Little Hanoi, înregistrând un cont sau
+              efectuând o achiziție, sunteți de acord cu Politica noastră de
+              confidențialitate și sunteți de acord cu termenii acesteia., key:
+              -6b0ae4b7
+            label: Text
+            name: '-6b0ae4b7'
+            widget: text
+          - hint: >-
+              Original text: Această Politică de confidențialitate se aplică
+              numai Serviciilor. Serviciile pot conține link-uri către alte
+              site-uri web care nu sunt operate sau controlate de Little Hanoi.
+              Nu suntem responsabili pentru conținutul, acuratețea sau opiniile
+              exprimate în astfel de site-uri web și astfel de site-uri web nu
+              sunt investigate, monitorizate sau verificate de către noi pentru
+              acuratețea sau completitudinea. Vă rugăm să rețineți că atunci
+              când utilizați un link pentru a merge de la Servicii la un alt
+              site web, Politica noastră de confidențialitate nu mai este în
+              vigoare. Navigarea și interacțiunea dvs. pe orice alt site web,
+              inclusiv pe cele care au un link pe platforma noastră, sunt supuse
+              regulilor și politicilor site-ului respectiv. Aceste terțe părți
+              pot folosi propriile cookie-uri sau alte metode pentru a colecta
+              informații despre dvs., key: 377052c9
+            label: Text
+            name: 377052c9
+            widget: text
+          - hint: 'Original text: Publicitate, key: 2395e89e'
+            label: Text
+            name: 2395e89e
+            widget: string
+          - hint: >-
+              Original text: Acest site web poate conține reclame ale terților
+              și link-uri către site-uri terțe. Little Hanoi nu face nicio
+              declarație cu privire la acuratețea sau adecvarea oricăreia dintre
+              informațiile conținute în acele reclame sau site-uri și nu acceptă
+              nicio responsabilitate sau răspundere pentru conduita sau
+              conținutul acelor reclame și site-uri și ofertele făcute de terți.
+              ., key: -19605b65
+            label: Text
+            name: '-19605b65'
+            widget: text
+          - hint: >-
+              Original text: Publicitatea păstrează Little Hanoi și multe dintre
+              site-urile și serviciile pe care le utilizați gratuit. Ne străduim
+              să ne asigurăm că anunțurile sunt sigure, discrete și cât mai
+              relevante posibil., key: 68c0e3d5
+            label: Text
+            name: 68c0e3d5
+            widget: text
+          - hint: >-
+              Original text: Reclamele terților și link-urile către alte
+              site-uri unde sunt promovate bunuri sau servicii nu sunt aprobări
+              sau recomandări din partea Little Hanoi cu privire la site-urile,
+              bunurile sau serviciile terților. Little Hanoi nu își asumă
+              responsabilitatea pentru conținutul oricăreia dintre reclamele,
+              promisiunile făcute sau calitatea/fiabilitatea produselor sau
+              serviciilor oferite în toate reclamele., key: 6a7a2e0
+            label: Text
+            name: 6a7a2e0
+            widget: text
+          - hint: 'Original text: Cookie-uri pentru publicitate, key: 1b8c5639'
+            label: Text
+            name: 1b8c5639
+            widget: string
+          - hint: >-
+              Original text: Aceste cookie-uri colectează informații de-a lungul
+              timpului despre activitatea dvs. online pe site și alte servicii
+              online pentru a face reclamele online mai relevante și mai
+              eficiente pentru dvs. Aceasta este cunoscută sub numele de
+              publicitate bazată pe interese. Ele îndeplinesc, de asemenea,
+              funcții cum ar fi prevenirea reapariției continue a aceluiași
+              anunț și asigurarea faptului că anunțurile sunt afișate corect
+              pentru agenții de publicitate. Fără module cookie, este foarte
+              greu pentru un agent de publicitate să ajungă la publicul său sau
+              să știe câte anunțuri au fost afișate și câte clicuri a primit.,
+              key: -4cfe7ec4
+            label: Text
+            name: '-4cfe7ec4'
+            widget: text
+          - hint: >-
+              Original text: Blocarea și dezactivarea cookie-urilor și a
+              tehnologiilor similare, key: 7db51180
+            label: Text
+            name: 7db51180
+            widget: string
+          - hint: >-
+              Original text: Oriunde v-ați afla, puteți, de asemenea, să setați
+              browserul să blocheze cookie-urile și tehnologii similare, dar
+              această acțiune poate bloca cookie-urile noastre esențiale și
+              poate împiedica funcționarea corectă a site-ului nostru web și
+              este posibil să nu puteți utiliza pe deplin toate caracteristicile
+              și serviciile sale. De asemenea, ar trebui să știți că este
+              posibil să pierdeți și unele informații salvate (de exemplu,
+              detaliile de conectare salvate, preferințele site-ului) dacă
+              blocați cookie-urile în browser. Diferitele browsere vă pun la
+              dispoziție controale diferite. Dezactivarea unui cookie sau a unei
+              categorii de cookie nu șterge cookie-ul din browser-ul dvs., va
+              trebui să faceți acest lucru singur din browser-ul dvs., ar trebui
+              să vizitați meniul de ajutor al browserului pentru mai multe
+              informații., key: 41a2812e
+            label: Text
+            name: 41a2812e
+            widget: text
+          - hint: 'Original text: Servicii de remarketing, key: 78795964'
+            label: Text
+            name: '78795964'
+            widget: string
+          - hint: >-
+              Original text: Folosim servicii de remarketing. Ce este
+              remarketingul? În marketingul digital, remarketingul (sau
+              retargeting) este practica de a difuza reclame pe internet
+              persoanelor care v-au vizitat deja site-ul web. Acesta permite
+              companiei dvs. să pară că „urmărește” oamenii pe internet,
+              difuzând reclame pe site-urile și platformele pe care le folosesc
+              cel mai mult., key: -2571bad0
+            label: Text
+            name: '-2571bad0'
+            widget: text
+          - hint: 'Original text: Detaliile platii, key: -7bf15e28'
+            label: Text
+            name: '-7bf15e28'
+            widget: string
+          - hint: >-
+              Original text: În ceea ce privește orice card de credit sau alte
+              detalii de procesare a plăților pe care ni le-ați furnizat, ne
+              angajăm ca aceste informații confidențiale să fie stocate în cel
+              mai sigur mod posibil., key: -27d5a906
+            label: Text
+            name: '-27d5a906'
+            widget: text
+          - hint: 'Original text: Confidențialitatea copiilor, key: -5bff1ff0'
+            label: Text
+            name: '-5bff1ff0'
+            widget: string
+          - hint: >-
+              Original text: Nu ne adresăm nimănui sub vârsta de 13 ani. Nu
+              colectăm cu bună știință informații de identificare personală de
+              la persoane sub vârsta de 13 ani. Dacă sunteți părinte sau tutore
+              și știți că copilul dumneavoastră ne-a furnizat date personale, vă
+              rugăm să contactați Ne. Dacă aflăm că am colectat date cu caracter
+              personal de la oricine cu vârsta sub 13 ani fără verificarea
+              consimțământului părinților, luăm măsuri pentru a elimina acele
+              informații de pe serverele noastre., key: -605779ca
+            label: Text
+            name: '-605779ca'
+            widget: text
+          - hint: >-
+              Original text: Modificări ale politicii noastre de
+              confidențialitate, key: e57dc86
+            label: Text
+            name: e57dc86
+            widget: string
+          - hint: >-
+              Original text: Este posibil să ne schimbăm serviciul și politicile
+              și este posibil să fie nevoie să facem modificări acestei Politici
+              de confidențialitate, astfel încât acestea să reflecte cu
+              acuratețe Serviciul și politicile noastre. Cu excepția cazului în
+              care legea prevede altfel, vă vom notifica (de exemplu, prin
+              intermediul Serviciului nostru) înainte de a face modificări la
+              această Politică de confidențialitate și vă vom oferi
+              posibilitatea de a le revizui înainte ca acestea să intre în
+              vigoare. Apoi, dacă continuați să utilizați Serviciul, veți fi
+              obligat să respectați Politica de confidențialitate actualizată.
+              Dacă nu doriți să fiți de acord cu aceasta sau cu orice Politică
+              de confidențialitate actualizată, vă puteți șterge contul., key:
+              -31ce6659
+            label: Text
+            name: '-31ce6659'
+            widget: text
+          - hint: 'Original text: Facebook Pixel, key: a12b0ac'
+            label: Text
+            name: a12b0ac
+            widget: string
+          - hint: >-
+              Original text: Pixelul Facebook este un instrument de analiză care
+              vă permite să măsurați eficacitatea reclamei dvs. prin înțelegerea
+              acțiunilor pe care le întreprind oamenii pe site-ul dvs. Puteți
+              folosi pixelul pentru a: Asigurați-vă că anunțurile sunt afișate
+              persoanelor potrivite. Pixelul Facebook poate colecta informații
+              de pe dispozitivul dvs. atunci când utilizați serviciul. Pixelul
+              Facebook colectează informații care sunt deținute în conformitate
+              cu Politica sa de confidențialitate, key: 7b31b562
+            label: Text
+            name: 7b31b562
+            widget: text
+          - hint: 'Original text: Tehnologii de urmărire, key: 1f4f87c8'
+            label: Text
+            name: 1f4f87c8
+            widget: string
+          - hint: 'Original text: API-ul Google Maps, key: 580efc48'
+            label: Text
+            name: 580efc48
+            widget: string
+          - hint: >-
+              Original text: Google Maps API este un instrument robust care
+              poate fi folosit pentru a crea o hartă personalizată, o hartă care
+              poate fi căutată, funcții de check-in, afișarea datelor în direct
+              sincronizate cu locația, planificarea rutelor sau crearea unui
+              mashup doar pentru a numi câteva., key: -4d0fed9b
+            label: Text
+            name: '-4d0fed9b'
+            widget: text
+          - hint: >-
+              Original text: Google Maps API poate colecta informații de la Dvs.
+              și de pe Dispozitivul Dvs. din motive de securitate., key:
+              1d609822
+            label: Text
+            name: 1d609822
+            widget: text
+          - hint: >-
+              Original text: Google Maps API colectează informații care sunt
+              deținute în conformitate cu Politica de confidențialitate, key:
+              -8366087
+            label: Text
+            name: '-8366087'
+            widget: text
+          - hint: >-
+              Original text: Folosim module cookie pentru a îmbunătăți
+              performanța și funcționalitatea, dar nu sunt esențiale pentru
+              utilizarea lor. Cu toate acestea, fără aceste cookie-uri, anumite
+              funcționalități, cum ar fi videoclipurile, pot deveni
+              indisponibile sau vi se va cere să introduceți detaliile de
+              conectare de fiecare dată când vizitați, deoarece nu ne-am putea
+              aminti că v-ați autentificat anterior., key: -8a2998e
+            label: Text
+            name: '-8a2998e'
+            widget: text
+          - hint: 'Original text: Stocare locală, key: 26409c19'
+            label: Text
+            name: 26409c19
+            widget: string
+          - hint: >-
+              Original text: Stocarea locală, uneori cunoscută sub numele de
+              stocare DOM, oferă aplicațiilor web metode și protocoale pentru
+              stocarea datelor la nivelul clientului. Stocarea web acceptă
+              stocarea persistentă a datelor, similară cu cookie-urile, dar cu o
+              capacitate mult îmbunătățită și fără informații stocate în antetul
+              solicitării HTTP., key: -293253f7
+            label: Text
+            name: '-293253f7'
+            widget: text
+          - hint: 'Original text: Sesiuni, key: -267b4458'
+            label: Text
+            name: '-267b4458'
+            widget: string
+          - hint: >-
+              Original text: folosește „Sesiuni” pentru a identifica zonele
+              site-ului nostru pe care le-ați vizitat. O sesiune este o mică
+              bucată de date stocată pe computer sau pe dispozitivul dvs. mobil
+              de către browserul dvs. web., key: 1702592c
+            label: Text
+            name: 1702592c
+            widget: text
+          - hint: >-
+              Original text: Informații despre Regulamentul general privind
+              protecția datelor (GDPR), key: -48daa02
+            label: Text
+            name: '-48daa02'
+            widget: string
+          - hint: >-
+              Original text: Este posibil să colectăm și să folosim informații
+              de la dvs. dacă sunteți din Spațiul Economic European (SEE), iar
+              în această secțiune a Politicii noastre de confidențialitate vom
+              explica exact cum și de ce sunt colectate aceste date și cum
+              păstrăm aceste date în conformitate cu protecție împotriva
+              reproducerii sau a utilizării greșite., key: 32b84cda
+            label: Text
+            name: 32b84cda
+            widget: text
+          - hint: 'Original text: Ce este GDPR?, key: 3930371d'
+            label: Text
+            name: 3930371d
+            widget: string
+          - hint: >-
+              Original text: GDPR este o lege la nivelul UE privind
+              confidențialitatea și protecția datelor care reglementează modul
+              în care datele rezidenților UE sunt protejate de companii și
+              sporește controlul pe care rezidenții UE îl au asupra datelor lor
+              personale., key: -63b84fb3
+            label: Text
+            name: '-63b84fb3'
+            widget: text
+          - hint: >-
+              Original text: GDPR este relevant pentru orice companie care
+              operează la nivel global și nu doar pentru întreprinderile din UE
+              și pentru rezidenții UE. Datele clienților noștri sunt importante,
+              indiferent de locul în care se află, motiv pentru care am
+              implementat controale GDPR ca standard de bază pentru toate
+              operațiunile noastre din întreaga lume., key: -56d76cb7
+            label: Text
+            name: '-56d76cb7'
+            widget: text
+          - hint: 'Original text: Ce sunt datele personale?, key: 263d5b9'
+            label: Text
+            name: 263d5b9
+            widget: string
+          - hint: >-
+              Original text: Orice date care se referă la o persoană
+              identificabilă sau identificată. GDPR acoperă un spectru larg de
+              informații care ar putea fi utilizate singure sau în combinație cu
+              alte informații, pentru a identifica o persoană. Datele personale
+              se extind dincolo de numele sau adresa de e-mail a unei persoane.
+              Unele exemple includ informații financiare, opinii politice, date
+              genetice, date biometrice, adrese IP, adresa fizică, orientarea
+              sexuală și etnia., key: 1ce422f2
+            label: Text
+            name: 1ce422f2
+            widget: text
+          - hint: >-
+              Original text: Principiile de protecție a datelor includ cerințe
+              precum:, key: -65984bdb
+            label: Text
+            name: '-65984bdb'
+            widget: string
+          - hint: >-
+              Original text: Datele cu caracter personal colectate trebuie să
+              fie procesate într-un mod corect, legal și transparent și ar
+              trebui să fie utilizate numai într-un mod la care o persoană s-ar
+              aștepta în mod rezonabil., key: -13459281
+            label: Text
+            name: '-13459281'
+            widget: text
+          - hint: >-
+              Original text: Datele cu caracter personal trebuie colectate numai
+              pentru a îndeplini un anumit scop și ar trebui să fie utilizate
+              numai în acest scop. Organizațiile trebuie să specifice de ce au
+              nevoie de datele personale atunci când le colectează., key:
+              2833bfe9
+            label: Text
+            name: 2833bfe9
+            widget: text
+          - hint: >-
+              Original text: Datele cu caracter personal nu trebuie păstrate mai
+              mult decât este necesar pentru a-și îndeplini scopul., key:
+              -25ba23e3
+            label: Text
+            name: '-25ba23e3'
+            widget: text
+          - hint: >-
+              Original text: Persoanele acoperite de GDPR au dreptul de a accesa
+              propriile date personale. De asemenea, pot solicita o copie a
+              datelor lor și ca datele lor să fie actualizate, șterse,
+              restricționate sau mutate într-o altă organizație., key: 2eedcacb
+            label: Text
+            name: 2eedcacb
+            widget: text
+          - hint: 'Original text: De ce este important GDPR?, key: 1253eb00'
+            label: Text
+            name: 1253eb00
+            widget: string
+          - hint: >-
+              Original text: GDPR adaugă câteva cerințe noi cu privire la modul
+              în care companiile ar trebui să protejeze datele personale ale
+              persoanelor pe care le colectează și le procesează. De asemenea,
+              crește miza conformității prin creșterea aplicării legii și prin
+              impunerea de amenzi mai mari pentru încălcare. Dincolo de aceste
+              fapte, este pur și simplu ceea ce trebuie făcut. La Little Hanoi
+              credem cu tărie că confidențialitatea datelor dumneavoastră este
+              foarte importantă și avem deja practici solide de securitate și
+              confidențialitate care depășesc cerințele acestui nou regulament.,
+              key: -3bb81d09
+            label: Text
+            name: '-3bb81d09'
+            widget: text
+          - hint: >-
+              Original text: Drepturile individuale ale subiectului datelor -
+              acces la date, portabilitate și ștergere, key: -2ca177a7
+            label: Text
+            name: '-2ca177a7'
+            widget: string
+          - hint: >-
+              Original text: Ne angajăm să ajutăm clienții noștri să
+              îndeplinească cerințele privind drepturile persoanelor vizate din
+              GDPR. Little Hanoi prelucrează sau stochează toate datele
+              personale în furnizori complet verificați, conformi DPA. Stocăm
+              toate conversațiile și datele personale timp de până la 6 ani, cu
+              excepția cazului în care contul dvs. este șters. În acest caz, vom
+              elimina toate datele în conformitate cu Termenii și condițiile
+              noastre și cu Politica de confidențialitate, dar nu le vom păstra
+              mai mult de 60 de zile., key: -6bfebe98
+            label: Text
+            name: '-6bfebe98'
+            widget: text
+          - hint: >-
+              Original text: Suntem conștienți de faptul că, dacă lucrați cu
+              clienți din UE, trebuie să le oferiți posibilitatea de a accesa,
+              actualiza, prelua și elimina datele personale. Te-am prins! Am
+              fost configurați ca autoservire încă de la început și ți-am oferit
+              întotdeauna acces la datele tale și la datele clienților tăi.
+              Echipa noastră de asistență pentru clienți este aici pentru a vă
+              răspunde la orice întrebări pe care le puteți avea despre lucrul
+              cu API-ul., key: 44250ddd
+            label: Text
+            name: 44250ddd
+            widget: text
+          - hint: >-
+              Original text: Pentru a explica lucrurile cât mai clar posibil în
+              această Politică privind cookie-urile, de fiecare dată când se
+              face referire la oricare dintre acești termeni, sunt definiți
+              strict astfel:, key: -1a620089
+            label: Text
+            name: '-1a620089'
+            widget: text
+          - hint: >-
+              Original text: Companie: atunci când această politică menționează
+              „Companie”, „noi”, „noi” sau „nostru”, se referă la Little Hanoi,
+              care este responsabil pentru informațiile dumneavoastră conform
+              acestei Politici privind cookie-urile., key: -2b9ba050
+            label: Text
+            name: '-2b9ba050'
+            widget: text
+          - hint: >-
+              Original text: Dispozitiv: orice dispozitiv conectat la internet,
+              cum ar fi un telefon, tabletă, computer sau orice alt dispozitiv
+              care poate fi folosit pentru a vizita Micul Hanoi și a utiliza
+              serviciile., key: 702f9d5b
+            label: Text
+            name: 702f9d5b
+            widget: text
+          - hint: >-
+              Original text: Site: site-ul lui Little Hanoi, care poate fi
+              accesat prin acest URL: https://littlehanoi.ro/, key: 318e5ce6
+            label: Text
+            name: 318e5ce6
+            widget: text
+          - hint: 'Original text: Introducere, key: 7f257372'
+            label: Text
+            name: 7f257372
+            widget: string
+          - hint: >-
+              Original text: Această politică privind cookie-urile explică modul
+              în care Little Hanoi și afiliații săi (în mod colectiv „Little
+              Hanoi”, „noi”, „noi” și „ai noștri”) utilizează cookie-uri și
+              tehnologii similare pentru a vă recunoaște atunci când vizitați
+              site-ul nostru web, inclusiv, fără limitare, https:
+              //littlehanoi.ro/ și orice URL-uri aferente, versiuni mobile sau
+              localizate și domenii/subdomenii asociate („Site-uri”). Acesta
+              explică ce sunt aceste tehnologii și de ce le folosim, precum și
+              opțiunile pentru cum să le controlăm., key: 42102a72
+            label: Text
+            name: 42102a72
+            widget: text
+          - hint: 'Original text: Ce este un cookie?, key: -557434a9'
+            label: Text
+            name: '-557434a9'
+            widget: string
+          - hint: >-
+              Original text: Un cookie este un fișier text mic care este stocat
+              pe computerul dvs. sau pe alt dispozitiv conectat la internet
+              pentru a vă identifica browserul, a furniza analize, a reține
+              informații despre dvs., cum ar fi preferința de limbă sau
+              informațiile de conectare. Sunt complet sigure și nu pot fi
+              folosite pentru a rula programe sau pentru a furniza viruși pe
+              dispozitivul dvs., key: 2928fba1
+            label: Text
+            name: 2928fba1
+            widget: text
+          - hint: 'Original text: De ce folosim cookie-uri?, key: -1ef09b98'
+            label: Text
+            name: '-1ef09b98'
+            widget: string
+          - hint: >-
+              Original text: Folosim cookie-uri primare și/sau terțe pe site-ul
+              nostru web în diverse scopuri, cum ar fi:, key: -7a9c8268
+            label: Text
+            name: '-7a9c8268'
+            widget: text
+          - hint: >-
+              Original text: Pentru a facilita funcționarea și funcționalitatea
+              site-ului nostru web;, key: 5fc7604b
+            label: Text
+            name: 5fc7604b
+            widget: string
+          - hint: >-
+              Original text: Pentru a vă îmbunătăți experiența pe site-ul nostru
+              web și pentru a face navigarea în jurul lor mai rapidă și mai
+              ușoară;, key: -12d297c9
+            label: Text
+            name: '-12d297c9'
+            widget: text
+          - hint: >-
+              Original text: Pentru a ne permite să facem o experiență de
+              utilizator personalizată pentru dvs. și pentru ca noi să înțelegem
+              ce este util sau care vă interesează;, key: -47e339f
+            label: Text
+            name: '-47e339f'
+            widget: text
+          - hint: >-
+              Original text: Pentru a analiza modul în care este utilizat
+              site-ul nostru și cum îl putem personaliza cel mai bine;, key:
+              -301baa2a
+            label: Text
+            name: '-301baa2a'
+            widget: text
+          - hint: >-
+              Original text: Pentru a identifica perspectivele viitoare și a
+              personaliza interacțiunile de marketing și vânzări cu acesta;,
+              key: -4225f38a
+            label: Text
+            name: '-4225f38a'
+            widget: text
+          - hint: >-
+              Original text: Pentru a facilita adaptarea publicității online la
+              interesele dvs., key: 2541dd8c
+            label: Text
+            name: 2541dd8c
+            widget: string
+          - hint: >-
+              Original text: Ce tip de cookie-uri folosește Little Hanoi?, key:
+              6e4eebe5
+            label: Text
+            name: 6e4eebe5
+            widget: string
+          - hint: >-
+              Original text: Cookie-urile pot fi fie cookie-uri de sesiune, fie
+              cookie-uri persistente. Un cookie de sesiune expiră automat când
+              închideți browserul. Un cookie persistent va rămâne până când
+              expiră sau până când vă ștergeți cookie-urile. Datele de expirare
+              sunt stabilite chiar în cookie-urile; unele pot expira după câteva
+              minute, în timp ce altele pot expira după mai mulți ani.
+              Cookie-urile plasate de site-ul web pe care îl vizitați sunt
+              numite „cookie-uri first party”., key: -7bc0967b
+            label: Text
+            name: '-7bc0967b'
+            widget: text
+          - hint: >-
+              Original text: Cookie-urile strict necesare sunt necesare pentru
+              ca site-ul nostru web să funcționeze și nu pot fi dezactivate în
+              sistemele noastre. Ele sunt esențiale pentru a vă permite să
+              navigați pe site și să utilizați funcțiile acestuia. Dacă
+              eliminați sau dezactivați aceste module cookie, nu putem garanta
+              că veți putea folosi site-ul nostru web., key: 828a34f
+            label: Text
+            name: 828a34f
+            widget: text
+          - hint: >-
+              Original text: Utilizăm următoarele tipuri de cookie-uri pe
+              site-ul nostru web:, key: -ab629e4
+            label: Text
+            name: '-ab629e4'
+            widget: string
+          - hint: 'Original text: Cookie-uri esențiale, key: 5664dc78'
+            label: Text
+            name: 5664dc78
+            widget: string
+          - hint: >-
+              Original text: Folosim cookie-uri esențiale pentru ca site-ul
+              nostru să funcționeze. Aceste cookie-uri sunt strict necesare
+              pentru a activa funcționalitățile de bază, cum ar fi securitatea,
+              gestionarea rețelei, preferințele dvs. privind cookie-urile și
+              accesibilitatea. Fără ele nu ai putea folosi serviciile de bază.
+              Puteți să le dezactivați modificând setările browserului, dar
+              acest lucru poate afecta modul în care funcționează site-urile
+              web., key: 571d71b
+            label: Text
+            name: 571d71b
+            widget: text
+          - hint: >-
+              Original text: Cookie-uri de performanță și funcționalitate, key:
+              40dde727
+            label: Text
+            name: 40dde727
+            widget: string
+          - hint: >-
+              Original text: Aceste cookie-uri sunt folosite pentru a îmbunătăți
+              performanța și funcționalitatea site-ului nostru web, dar nu sunt
+              esențiale pentru utilizarea lor. Cu toate acestea, fără aceste
+              cookie-uri, anumite funcționalități, cum ar fi videoclipurile, pot
+              deveni indisponibile sau vi se va cere să introduceți detaliile de
+              conectare de fiecare dată când vizitați site-ul web, deoarece nu
+              ne-am putea aminti că v-ați autentificat anterior., key: 7d6366bd
+            label: Text
+            name: 7d6366bd
+            widget: text
+          - hint: 'Original text: Cookie-uri de marketing, key: -42e8505c'
+            label: Text
+            name: '-42e8505c'
+            widget: string
+          - hint: >-
+              Original text: Aceste cookie-uri de marketing bazate pe cont ne
+              permit să identificăm perspective viitoare și să personalizăm
+              interacțiunile de vânzări și marketing cu aceștia., key: -59cc89ec
+            label: Text
+            name: '-59cc89ec'
+            widget: text
+          - hint: >-
+              Original text: Cookie-uri de analiză și personalizare, key:
+              -63f37d25
+            label: Text
+            name: '-63f37d25'
+            widget: string
+          - hint: >-
+              Original text: Aceste cookie-uri colectează informații care sunt
+              folosite pentru a ne ajuta să înțelegem cum este utilizat site-ul
+              nostru web sau cât de eficiente sunt campaniile noastre de
+              marketing sau pentru a ne ajuta să personalizăm site-ul nostru
+              pentru dvs., key: -6b183d4
+            label: Text
+            name: '-6b183d4'
+            widget: text
+          - hint: >-
+              Original text: Folosim module cookie oferite de Google Analytics
+              pentru a colecta date limitate direct din browserele
+              utilizatorilor finali, pentru a ne permite să înțelegem mai bine
+              modul de utilizare a site-ului nostru web. Mai multe informații
+              despre modul în care Google colectează și utilizează aceste date
+              pot fi găsite la:
+              https://www.google.com/policies/privacy/partners/. Puteți renunța
+              la toate analizele acceptate de Google pe site-urile noastre web,
+              vizitând: https://tools.google.com/dlpage/gaoptout., key:
+              -5f0d767c
+            label: Text
+            name: '-5f0d767c'
+            widget: text
+          - hint: >-
+              Original text: Cookie-uri pentru rețelele de socializare, key:
+              11271303
+            label: Text
+            name: '11271303'
+            widget: string
+          - hint: >-
+              Original text: Aceste cookie-uri sunt utilizate atunci când
+              partajați informații utilizând un buton de partajare a rețelelor
+              sociale sau un buton „like” de pe site-ul nostru sau vă conectați
+              contul sau vă interacționați cu conținutul nostru pe sau printr-un
+              site web de rețea socială, cum ar fi Facebook, Twitter sau
+              Google+. Rețeaua de socializare va înregistra că ați făcut acest
+              lucru. Aceste cookie-uri pot include, de asemenea, un anumit cod
+              care a fost plasat pe platformă pentru a ajuta la urmărirea
+              conversiilor din reclame, pentru a optimiza anunțurile pe baza
+              datelor colectate, pentru a construi audiențe vizate pentru
+              anunțuri viitoare și pentru a remarketing către utilizatori
+              calificați care au întreprins deja anumite acțiuni pe platformă.,
+              key: -10f87e3c
+            label: Text
+            name: '-10f87e3c'
+            widget: text
+          - hint: 'Original text: Cookie-uri ale terților, key: 21883d83'
+            label: Text
+            name: 21883d83
+            widget: string
+          - hint: >-
+              Original text: Unele cookie-uri care au fost setate pe site-ul
+              nostru web nu sunt setate pe o bază primară de către Little Hanoi.
+              Site-urile web pot fi încorporate cu conținut de la terți pentru a
+              difuza publicitate. Acești furnizori de servicii terți își pot
+              seta propriile cookie-uri în browserul dvs. web. Furnizorii de
+              servicii terți controlează multe dintre modulele cookie de
+              performanță și funcționalitate, de publicitate, de marketing și de
+              analiză descrise mai sus. Nu controlăm utilizarea acestor
+              cookie-uri terță parte, deoarece cookie-urile pot fi accesate
+              numai de terțul care le-a setat inițial., key: 4932372e
+            label: Text
+            name: 4932372e
+            widget: text
+          - hint: 'Original text: Cum poți gestiona cookie-urile?, key: -69a5daf7'
+            label: Text
+            name: '-69a5daf7'
+            widget: string
+          - hint: >-
+              Original text: Majoritatea browserelor vă permit să controlați
+              cookie-urile prin preferințele lor de „setări”. Cu toate acestea,
+              dacă limitați capacitatea site-urilor web de a seta cookie-uri,
+              este posibil să vă înrăutăți experiența generală de utilizator,
+              deoarece nu va mai fi personalizată pentru dvs. De asemenea, vă
+              poate împiedica să salvați setări personalizate, cum ar fi
+              informațiile de conectare. Producătorii de browsere oferă pagini
+              de ajutor referitoare la gestionarea cookie-urilor în produsele
+              lor., key: -29775311
+            label: Text
+            name: '-29775311'
+            widget: text
+          - hint: >-
+              Original text: Producătorii de browsere oferă pagini de ajutor
+              referitoare la gestionarea cookie-urilor în produsele lor. Vă
+              rugăm să consultați mai jos pentru mai multe informații., key:
+              f9c3b3b
+            label: Text
+            name: f9c3b3b
+            widget: text
+          - hint: 'Original text: Google Chrome, key: -d2bc9bf'
+            label: Text
+            name: '-d2bc9bf'
+            widget: string
+          - hint: 'Original text: Internet Explorer, key: -315651c2'
+            label: Text
+            name: '-315651c2'
+            widget: string
+          - hint: 'Original text: Mozilla Firefox, key: 2991769'
+            label: Text
+            name: '2991769'
+            widget: string
+          - hint: 'Original text: Safari (desktop), key: -3a31ccb'
+            label: Text
+            name: '-3a31ccb'
+            widget: string
+          - hint: 'Original text: Safari (mobil), key: -50d335f2'
+            label: Text
+            name: '-50d335f2'
+            widget: string
+          - hint: 'Original text: Browser Android, key: 33eea537'
+            label: Text
+            name: 33eea537
+            widget: string
+          - hint: 'Original text: Operă, key: 48db455'
+            label: Text
+            name: 48db455
+            widget: string
+          - hint: 'Original text: Opera Mobile, key: 6e1c31cf'
+            label: Text
+            name: 6e1c31cf
+            widget: string
+          - hint: >-
+              Original text: Modificări ale politicii noastre privind
+              cookie-urile, key: 4811954b
+            label: Text
+            name: 4811954b
+            widget: string
+          - hint: >-
+              Original text: Este posibil să ne schimbăm serviciul și politicile
+              și este posibil să fie nevoie să facem modificări acestei Politici
+              privind cookie-urile, astfel încât acestea să reflecte cu
+              acuratețe Serviciul și politicile noastre. Cu excepția cazului în
+              care legea prevede altfel, vă vom notifica (de exemplu, prin
+              intermediul Serviciului nostru) înainte de a face modificări la
+              această Politică privind cookie-urile și vă vom oferi
+              posibilitatea de a le revizui înainte ca acestea să intre în
+              vigoare. Apoi, dacă continuați să utilizați Serviciul, veți fi
+              legat de Politica de cookie-uri actualizată. Dacă nu doriți să
+              fiți de acord cu această politică sau cu orice politică
+              actualizată privind cookie-urile, vă puteți șterge contul., key:
+              -446db60f
+            label: Text
+            name: '-446db60f'
+            widget: text
+          - hint: >-
+              Original text: Prin utilizarea site-ului nostru web, înregistrarea
+              unui cont sau efectuarea unei achiziții, sunteți de acord cu
+              Politica noastră privind cookie-urile și sunteți de acord cu
+              termenii acesteia., key: -598fe3da
+            label: Text
+            name: '-598fe3da'
+            widget: text
+          - hint: >-
+              Original text: Nu ezitați să ne contactați dacă aveți întrebări cu
+              privire la Politica noastră privind cookie-urile., key: 71a4e485
+            label: Text
+            name: 71a4e485
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -4293,10 +6493,6 @@ collections:
           - hint: 'Original link: #, key: 23'
             label: Link
             name: '23'
-            widget: string
-          - hint: 'Original link: /old-home, key: 41a389f4'
-            label: Link
-            name: 41a389f4
             widget: string
           - hint: 'Original link: /about, key: 55b8e8be'
             label: Link
@@ -4366,50 +6562,34 @@ collections:
             label: Link
             name: 5032f721
             widget: string
+          - hint: 'Original link: https://littlehanoi.taptasty.com/, key: 623742f0'
+            label: Link
+            name: 623742f0
+            widget: string
           - hint: >-
               Original link:
-              https://webflow.com/templates/html/sushi-x-restaurant-website-template,
-              key: 3989a927
+              https://www.facebook.com/LittleHanoiTM/?locale=ro_RO, key:
+              -6f711752
             label: Link
-            name: 3989a927
-            widget: string
-          - hint: 'Original link: #pages, key: 42118d81'
-            label: Link
-            name: 42118d81
-            widget: string
-          - hint: 'Original link: mailto:sushix@brixtemplates.com, key: -581defe5'
-            label: Link
-            name: '-581defe5'
-            widget: string
-          - hint: 'Original link: /404, key: 1626a9'
-            label: Link
-            name: 1626a9
-            widget: string
-          - hint: 'Original link: /401, key: 1626a6'
-            label: Link
-            name: 1626a6
+            name: '-6f711752'
             widget: string
           - hint: >-
-              Original link: https://brixtemplates.com/icon-fonts, key:
-              -16a3e8df
+              Original link: https://www.instagram.com/littlehanoitm/?hl=en,
+              key: 77363590
             label: Link
-            name: '-16a3e8df'
+            name: '77363590'
             widget: string
-          - hint: 'Original link: https://facebook.com/, key: -f3f4979'
+          - hint: 'Original link: /politica-de-confidentialitate, key: -68a2a75e'
             label: Link
-            name: '-f3f4979'
+            name: '-68a2a75e'
             widget: string
-          - hint: 'Original link: https://twitter.com/, key: 636eb9b8'
+          - hint: 'Original link: /termeni-si-conditii, key: -12be84a4'
             label: Link
-            name: 636eb9b8
+            name: '-12be84a4'
             widget: string
-          - hint: 'Original link: https://www.instagram.com/, key: b979dd0'
+          - hint: 'Original link: /politica-de-cookie-uri, key: 28a17040'
             label: Link
-            name: b979dd0
-            widget: string
-          - hint: 'Original link: https://www.linkedin.com/, key: 6e47a6b8'
-            label: Link
-            name: 6e47a6b8
+            name: 28a17040
             widget: string
           - hint: >-
               Original link:
@@ -4457,6 +6637,10 @@ collections:
             label: Link
             name: '37934931'
             widget: string
+          - hint: 'Original link: https://studiorovst.com/, key: -54551e99'
+            label: Link
+            name: '-54551e99'
+            widget: string
           - hint: 'Original link: mailto:contact@sushi.com, key: -6706a83'
             label: Link
             name: '-6706a83'
@@ -4473,9 +6657,32 @@ collections:
             label: Link
             name: 5580509f
             widget: string
+          - hint: 'Original link: https://www.instagram.com/, key: b979dd0'
+            label: Link
+            name: b979dd0
+            widget: string
           - hint: 'Original link: http://instagram.com, key: -5cd3f38d'
             label: Link
             name: '-5cd3f38d'
+            widget: string
+          - hint: >-
+              Original link:
+              https://webflow.com/templates/html/sushi-x-restaurant-website-template,
+              key: 3989a927
+            label: Link
+            name: 3989a927
+            widget: string
+          - hint: 'Original link: https://facebook.com/, key: -f3f4979'
+            label: Link
+            name: '-f3f4979'
+            widget: string
+          - hint: 'Original link: https://twitter.com/, key: 636eb9b8'
+            label: Link
+            name: 636eb9b8
+            widget: string
+          - hint: 'Original link: https://www.linkedin.com/, key: 6e47a6b8'
+            label: Link
+            name: 6e47a6b8
             widget: string
           - hint: 'Original link: https://www.ubereats.com/, key: 23c86b01'
             label: Link
@@ -4542,6 +6749,10 @@ collections:
               -f4aff24
             label: Link
             name: '-f4aff24'
+            widget: string
+          - hint: 'Original link: #recenzii, key: 15296c64'
+            label: Link
+            name: 15296c64
             widget: string
           - hint: >-
               Original link:
@@ -4882,11 +7093,21 @@ collections:
             label: Link
             name: 76a31a6b
             widget: string
+          - hint: 'Original link: mailto:sushix@brixtemplates.com, key: -581defe5'
+            label: Link
+            name: '-581defe5'
+            widget: string
           - hint: >-
               Original link: https://brixtemplates.com/webflow-design-agency,
               key: 2e232d8
             label: Link
             name: 2e232d8
+            widget: string
+          - hint: >-
+              Original link: https://brixtemplates.com/icon-fonts, key:
+              -16a3e8df
+            label: Link
+            name: '-16a3e8df'
             widget: string
           - hint: >-
               Original link: https://brixtemplates.com/template-idea, key:
@@ -5036,6 +7257,13 @@ collections:
             label: Link
             name: 321e66a5
             widget: string
+          - hint: >-
+              Original link:
+              https://termify-io.translate.goog/terms-and-conditions/1677472608?_x_tr_sl=en&_x_tr_tl=ro&_x_tr_hl=en&_x_tr_pto=wapp,
+              key: 6a73132c
+            label: Link
+            name: 6a73132c
+            widget: string
       - label: Images
         name: images
         file: cms/_data/images.json
@@ -5058,7 +7286,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: id576e54
+            name: 626f6331
             widget: object
             fields:
               - name: url
@@ -5097,410 +7325,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 9eab8e1
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-73f24c7f'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-5e8528b6'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 6a5ef8c4
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3285bd31'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 31b46517
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-529957bc'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-7322dd54'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 27c46a73
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-72b2dd2b'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-7dbd1e77'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-4f810bfb'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 52e967bf
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-617362ca'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 7e2af23c
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-75d735ed'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 1a27ed1e
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 3e666cb6
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: f779cb3
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-58026f7f'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-19c7bf37'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 53f7c8e4
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-5edb1eb9'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-438ebc8a'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-75bad011'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-210fb473'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-2390f635'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 4e2e30d0
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 130d794b
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 9b7d702
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 7ed7cc0e
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 20a16d79
+            name: '-63eb8080'
             widget: object
             fields:
               - name: url
@@ -5591,19 +7416,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-63eb8080'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: 77b86148
             widget: object
             fields:
@@ -5670,19 +7482,6 @@ collections:
                 required: false
           - label: Image
             name: 501594b5
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '0'
             widget: object
             fields:
               - name: url
@@ -6072,7 +7871,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-d576e54'
+            name: '-17720ae1'
             widget: object
             fields:
               - name: url
@@ -6085,20 +7884,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 6a9909fe
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 20830c6d
+            name: '-101bbf70'
             widget: object
             fields:
               - name: url
@@ -6176,7 +7962,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-2bb0ecf7'
+            name: '-4a66f28c'
             widget: object
             fields:
               - name: url
@@ -6189,7 +7975,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 2d8f2ef9
+            name: '-7ba3907c'
             widget: object
             fields:
               - name: url
@@ -6202,7 +7988,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-7df31b4a'
+            name: '-406a8e99'
             widget: object
             fields:
               - name: url
@@ -6215,7 +8001,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 5796b62f
+            name: '-64ba30f2'
             widget: object
             fields:
               - name: url
@@ -6228,7 +8014,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3cf5673d'
+            name: '-61b1c106'
             widget: object
             fields:
               - name: url
@@ -6241,7 +8027,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-31a3f997'
+            name: '-2d579ec'
             widget: object
             fields:
               - name: url

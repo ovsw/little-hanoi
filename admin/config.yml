@@ -6498,7 +6498,7 @@ collections:
             label: Link
             name: 55b8e8be
             widget: string
-          - hint: 'Original link: #meniu, key: 2c9660e'
+          - hint: 'Original link: /menu, key: 2c9660e'
             label: Link
             name: 2c9660e
             widget: string
@@ -7263,6 +7263,20 @@ collections:
               key: 6a73132c
             label: Link
             name: 6a73132c
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.google.com/maps/place/Little+Hanoi+Cluj+Napoca/@46.7694065,23.6173556,15z/data=!4m2!3m1!1s0x0:0x59689ec22e5e1c30?sa=X&ved=2ahUKEwiE1uzRj7X9AhWYgP0HHf-HCzcQ_BJ6BQiDARAI,
+              key: -32191844
+            label: Link
+            name: '-32191844'
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.google.com/maps/place/Little+Hanoi+Iasi/@47.1525982,27.5888717,15z/data=!4m2!3m1!1s0x0:0x2e1774a00d4e1045?sa=X&ved=2ahUKEwjGlsDhj7X9AhXg_rsIHb9BCu0Q_BJ6BQiKARAI,
+              key: 342c2503
+            label: Link
+            name: 342c2503
             widget: string
       - label: Images
         name: images
